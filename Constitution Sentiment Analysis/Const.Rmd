@@ -1,0 +1,87 @@
+
+```{r setup, include=FALSE}
+#Setup the environment
+
+rm(list=ls())
+library(SnowballC)
+library(tm)
+library(ggplot2)
+library(RColorBrewer)
+library(wordcloud)
+library(topicmodels)
+library(data.table)
+library(stringi)
+library(syuzhet)
+#library(qdap)
+library(dplyr)
+library(plyr)
+library(grid)
+library(gridExtra)
+```
+
+#####Read Twitter Data
+
+```{r}
+# Set directory and read data
+mydata <- read.csv("source.csv")
+mydata$text <- as.character(mydata$text)
+str(mydata)
+
+
+#####Sentiment Analysis: understanding emotional valence in texts using syuzhet
+
+mydata$text <- iconv(enc2utf8(mydata$text),sub="byte")
+mysentiment<-get_nrc_sentiment((mydata$text))
+
+# Get the sentiment score for each emotion
+mysentiment.positive =sum(mysentiment$positive)
+mysentiment.anger =sum(mysentiment$anger)
+mysentiment.anticipation =sum(mysentiment$anticipation)
+mysentiment.disgust =sum(mysentiment$disgust)
+mysentiment.fear =sum(mysentiment$fear)
+mysentiment.joy =sum(mysentiment$joy)
+mysentiment.sadness =sum(mysentiment$sadness)
+mysentiment.surprise =sum(mysentiment$surprise)
+mysentiment.trust =sum(mysentiment$trust)
+mysentiment.negative =sum(mysentiment$negative)
+
+# Create the bar chart
+yAxis <- c(mysentiment.positive,
+           + mysentiment.anger,
+           + mysentiment.anticipation,
+           + mysentiment.disgust,
+           + mysentiment.fear,
+           + mysentiment.joy,
+           + mysentiment.sadness,
+           + mysentiment.surprise,
+           + mysentiment.trust,
+           + mysentiment.negative)
+
+xAxis <- c("Positive","Anger","Anticipation","Disgust","Fear","Joy","Sadness",
+           "Surprise","Trust","Negative")
+colors <- c("green","red","blue","orange","red","green","orange","blue","green","red")
+yRange <- range(0,yAxis)
+barplot(yAxis, names.arg = xAxis, 
+        xlab = "Emotional valence", ylab = "Score", main = "Constitution sentiment", 
+        sub = "Country", col = colors, border = "black", xpd = F, ylim = yRange,
+        axisnames = T, cex.axis = 0.8, cex.sub = 0.8, col.sub = "blue")
+
+library(tidytext)
+library(syuzhet)
+
+words <- tweets.df %>% unnest_tokens(word,text)
+sentiment <- words %>% inner_join(get_sentiments("nrc"),by="word")
+sentiment %>% dplyr::count(word,sentiment,sort = TRUE) %>% group_by (sentiment) %>% top_n(n=10) %>% ungroup() %>% ggplot(aes(x=reorder(word,n),y=n,fill=sentiment)) + geom_col(show.legend = FALSE) + facet_wrap(~sentiment,scales="free") +  coord_flip()
+
+```
+
+library(data.table)
+fwrite(sentiment, "countriesoutput.csv")
+
+
+
+
+
+
+
+
