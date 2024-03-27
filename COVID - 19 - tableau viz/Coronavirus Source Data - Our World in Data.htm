@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://ourworldindata.org/coronavirus-source-data -->
+<html class="js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Coronavirus Source Data - Our World in Data</title><meta name="description" content="Our complete COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, and testing."><style type="text/css">svg:not(:root).svg-inline--fa {
+  overflow: visible;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.225em;
+}
+.svg-inline--fa.fa-w-1 {
+  width: 0.0625em;
+}
+.svg-inline--fa.fa-w-2 {
+  width: 0.125em;
+}
+.svg-inline--fa.fa-w-3 {
+  width: 0.1875em;
+}
+.svg-inline--fa.fa-w-4 {
+  width: 0.25em;
+}
+.svg-inline--fa.fa-w-5 {
+  width: 0.3125em;
+}
+.svg-inline--fa.fa-w-6 {
+  width: 0.375em;
+}
+.svg-inline--fa.fa-w-7 {
+  width: 0.4375em;
+}
+.svg-inline--fa.fa-w-8 {
+  width: 0.5em;
+}
+.svg-inline--fa.fa-w-9 {
+  width: 0.5625em;
+}
+.svg-inline--fa.fa-w-10 {
+  width: 0.625em;
+}
+.svg-inline--fa.fa-w-11 {
+  width: 0.6875em;
+}
+.svg-inline--fa.fa-w-12 {
+  width: 0.75em;
+}
+.svg-inline--fa.fa-w-13 {
+  width: 0.8125em;
+}
+.svg-inline--fa.fa-w-14 {
+  width: 0.875em;
+}
+.svg-inline--fa.fa-w-15 {
+  width: 0.9375em;
+}
+.svg-inline--fa.fa-w-16 {
+  width: 1em;
+}
+.svg-inline--fa.fa-w-17 {
+  width: 1.0625em;
+}
+.svg-inline--fa.fa-w-18 {
+  width: 1.125em;
+}
+.svg-inline--fa.fa-w-19 {
+  width: 1.1875em;
+}
+.svg-inline--fa.fa-w-20 {
+  width: 1.25em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-border {
+  height: 1.5em;
+}
+.svg-inline--fa.fa-li {
+  width: 2em;
+}
+.svg-inline--fa.fa-fw {
+  width: 1.25em;
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: #ff253a;
+  border-radius: 1em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #fff;
+  height: 1.5em;
+  line-height: 1;
+  max-width: 5em;
+  min-width: 1.5em;
+  overflow: hidden;
+  padding: 0.25em;
+  right: 0;
+  text-overflow: ellipsis;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: 0;
+  right: 0;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: 0;
+  left: 0;
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  right: 0;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: 0;
+  right: auto;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+
+.fa-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.fa-pull-left {
+  float: left;
+}
+
+.fa-pull-right {
+  float: right;
+}
+
+.fa.fa-pull-left,
+.fas.fa-pull-left,
+.far.fa-pull-left,
+.fal.fa-pull-left,
+.fab.fa-pull-left {
+  margin-right: 0.3em;
+}
+.fa.fa-pull-right,
+.fas.fa-pull-right,
+.far.fa-pull-right,
+.fal.fa-pull-right,
+.fab.fa-pull-right {
+  margin-left: 0.3em;
+}
+
+.fa-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear;
+}
+
+.fa-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+          animation: fa-spin 1s infinite steps(8);
+}
+
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none;
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: #fff;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}</style><link rel="canonical" href="https://ourworldindata.org/coronavirus-source-data"><link rel="alternate" type="application/atom+xml" href="https://ourworldindata.org/atom.xml"><link rel="apple-touch-icon" sizes="180x180" href="https://ourworldindata.org/apple-touch-icon.png"><meta property="fb:app_id" content="1149943818390250"><meta property="og:url" content="https://ourworldindata.org/coronavirus-source-data"><meta property="og:title" content="Coronavirus Source Data"><meta property="og:description" content="Our complete COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, and testing."><meta property="og:image" content="https://ourworldindata.org/app/uploads/2020/03/Screen-Shot-2020-03-07-at-11.13.45-768x384.png"><meta property="og:site_name" content="Our World in Data"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@OurWorldInData"><meta name="twitter:creator" content="@OurWorldInData"><meta name="twitter:title" content="Coronavirus Source Data"><meta name="twitter:description" content="Our complete COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, and testing."><meta name="twitter:image" content="https://ourworldindata.org/app/uploads/2020/03/Screen-Shot-2020-03-07-at-11.13.45-768x384.png"><link href="./Coronavirus Source Data - Our World in Data_files/css" rel="stylesheet"><link rel="stylesheet" href="./Coronavirus Source Data - Our World in Data_files/commons.css"><link rel="stylesheet" href="./Coronavirus Source Data - Our World in Data_files/owid.css"><script async="" crossorigin="anonymous" src="./Coronavirus Source Data - Our World in Data_files/fs.js"></script><script type="text/javascript" async="" src="./Coronavirus Source Data - Our World in Data_files/analytics.js"></script><script async="" src="./Coronavirus Source Data - Our World in Data_files/gtm.js"></script><script type="text/javascript" async="" src="./Coronavirus Source Data - Our World in Data_files/amplitude-4.4.0-min.gz.js"></script><script type="text/javascript">
+  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+  ;r.type="text/javascript";r.async=true
+  ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
+  ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+  e.amplitude.runQueuedFunctions()}else{
+  console.log("[Amplitude] Error: could not load SDK")}}
+  ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+
+  amplitude.getInstance().init("0e57d4b93c5d7c33195d5dd89d563665");
+</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N2D4V8S');</script>
+<!-- End Google Tag Manager --><style type="text/css">.TransformComponent-module_container__3NwNd {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  overflow: hidden;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+.TransformComponent-module_content__TZU5O {
+  display: flex;
+  flex-wrap: wrap;
+  width: fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+  transform-origin: 0% 0%;
+}
+.TransformComponent-module_content__TZU5O img {
+  pointer-events: none;
+}
+</style></head><body class=""><header class="site-header"><div class="wrapper site-navigation-bar"><div class="site-logo"><a href="https://ourworldindata.org/" data-track-note="header-navigation">Our World<br> in Data</a></div><nav class="site-navigation"><div class="topics-button-wrapper"><a href="https://ourworldindata.org/#entries" class="topics-button"><div class="label">Articles <br><strong>by topic</strong></div><div class="icon"><svg width="12" height="6"><path d="M0,0 L12,0 L6,6 Z" fill="currentColor"></path></svg></div></a><div class="topics-dropdown" aria-hidden="false"><div class="menu"><div class="amazon-menu-container"><ul><li class="item" data-submenu-id="health"><span class="label">Health</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="population"><span class="label">Demographic Change</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="food"><span class="label">Food and Agriculture</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="education"><span class="label">Education and Knowledge</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="environment"><span class="label">Energy and Environment</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="technology"><span class="label">Innovation and Technological Change</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="growth-inequality"><span class="label">Poverty and Economic Development</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="work-life"><span class="label">Living conditions, Community and Wellbeing</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="politics"><span class="label">Human rights and Democracy</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><li class="item" data-submenu-id="violence-rights"><span class="label">Violence and War</span><span class="icon"><svg width="5" height="10"><path d="M0,0 L5,5 L0,10 Z" fill="currentColor"></path></svg></span></li><hr><a href="http://sdg-tracker.org/" class="item" data-submenu-id="true" data-track-note="header-navigation"><span class="label">Sustainable Development Goals Tracker</span><span class="icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M576 24v127.984c0 21.461-25.96 31.98-40.971 16.971l-35.707-35.709-243.523 243.523c-9.373 9.373-24.568 9.373-33.941 0l-22.627-22.627c-9.373-9.373-9.373-24.569 0-33.941L442.756 76.676l-35.703-35.705C391.982 25.9 402.656 0 424.024 0H552c13.255 0 24 10.745 24 24zM407.029 270.794l-16 16A23.999 23.999 0 0 0 384 303.765V448H64V128h264a24.003 24.003 0 0 0 16.97-7.029l16-16C376.089 89.851 365.381 64 344 64H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V287.764c0-21.382-25.852-32.09-40.971-16.97z"></path></svg></span></a></ul></div></div><ul class="submenu"></ul></div></div><div><div class="site-primary-navigation"><form action="https://ourworldindata.org/search" method="GET" class="HeaderSearch"><input type="search" name="q" placeholder="Search..."><div class="icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></div></form><ul class="site-primary-links"><li><a href="https://ourworldindata.org/blog" data-track-note="header-navigation">Latest</a></li><li><a href="https://ourworldindata.org/about" data-track-note="header-navigation">About</a></li><li><a href="https://ourworldindata.org/donate" data-track-note="header-navigation">Donate</a></li></ul></div><div class="site-secondary-navigation"><ul class="site-secondary-links"><li><a href="https://ourworldindata.org/charts" data-track-note="header-navigation">All charts</a></li><li><a href="https://sdg-tracker.org/" data-track-note="header-navigation">Sustainable Development Goals Tracker</a></li></ul></div></div></nav><div class="header-logos-wrapper"><a href="https://www.oxfordmartin.ox.ac.uk/global-development" class="oxford-logo"><img src="./Coronavirus Source Data - Our World in Data_files/oms-logo.svg" alt="Oxford Martin School logo"></a><a href="https://global-change-data-lab.org/" class="gcdl-logo"><img src="./Coronavirus Source Data - Our World in Data_files/gcdl-logo-narrow.png" alt="Global Change Data Lab logo"></a></div><div class="mobile-site-navigation"><button data-track-note="mobile-search-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></button><button data-track-note="mobile-newsletter-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope-open-text" class="svg-inline--fa fa-envelope-open-text fa-w-16 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M176 216h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16H176c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16zm-16 80c0 8.84 7.16 16 16 16h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16H176c-8.84 0-16 7.16-16 16v16zm96 121.13c-16.42 0-32.84-5.06-46.86-15.19L0 250.86V464c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V250.86L302.86 401.94c-14.02 10.12-30.44 15.19-46.86 15.19zm237.61-254.18c-8.85-6.94-17.24-13.47-29.61-22.81V96c0-26.51-21.49-48-48-48h-77.55c-3.04-2.2-5.87-4.26-9.04-6.56C312.6 29.17 279.2-.35 256 0c-23.2-.35-56.59 29.17-73.41 41.44-3.17 2.3-6 4.36-9.04 6.56H96c-26.51 0-48 21.49-48 48v44.14c-12.37 9.33-20.76 15.87-29.61 22.81A47.995 47.995 0 0 0 0 200.72v10.65l96 69.35V96h320v184.72l96-69.35v-10.65c0-14.74-6.78-28.67-18.39-37.77z"></path></svg></button><button data-track-note="mobile-hamburger-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" class="svg-inline--fa fa-bars fa-w-14 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path></svg></button></div></div></header><div class="alert-banner"><div class="content"><div class="text"><strong>Coronavirus pandemic</strong>: daily updated research and data.</div><a href="https://ourworldindata.org/coronavirus">Read more</a></div></div><main><article class="page no-sidebar large-banner"><div class="offset-header"><header class="article-header"><h1 class="entry-title"><span>Coronavirus Source Data</span></h1><div class="authors-byline"><a href="https://ourworldindata.org/team">by Hannah Ritchie</a></div><div class="blog-info">
+
+
+Our main publication on the pandemic is here: <strong><a href="https://ourworldindata.org/coronavirus" target="_blank" rel="noopener noreferrer">Coronavirus Disease (COVID-19)</a></strong>.<p></p>
+
+</div><div class="last-updated">
+		
+
+<p>Updated daily. Last update: <strong>April 27, 2020</strong> (11:15, London time).</p>
+
+
+	</div></header></div><div class="content-wrapper"><div class="offset-content"><div class="content-and-footnotes"><div class="article-content">
+
+
+
+<section><div class="wp-block-columns is-style-sticky-right"><div class="wp-block-column"><p>Our complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.</p><p><strong>All our data can be downloaded. </strong></p><p><strong>You find <strong>the complete Our World in Data COVID-19 dataset – together with a <strong><strong>complete overview of our sources and more</strong></strong></strong></strong> –<strong><strong> </strong>at our GitHub repository <a href="https://github.com/owid/covid-19-data/tree/master/public/data/">here</a>. </strong></p><hr class="wp-block-separator"><p>Visit the GitHub repository for details. If you just want to download the <em>complete Our World in Data COVID-19 dataset</em> directly, these are the links:</p><ul><li><a href="https://covid.ourworldindata.org/data/owid-covid-data.csv">Download our complete COVID-19 dataset (CSV)</a></li><li><a href="https://covid.ourworldindata.org/data/owid-covid-data.xlsx">Download our complete COVID-19 dataset (XLSX)</a></li></ul><hr class="wp-block-separator"><p>Since the beginning of the pandemic we have also provided individual files of our daily updates of confirmed cases and deaths from the European CDC. We will continue to provide them here for consistency.</p><ul><li><strong>Total confirmed cases</strong>: <a href="https://covid.ourworldindata.org/data/ecdc/total_cases.csv">https://covid.ourworldindata.org/data/ecdc/total_cases.csv</a></li><li><strong>Total deaths</strong>: <a href="https://covid.ourworldindata.org/data/ecdc/total_deaths.csv">https://covid.ourworldindata.org/data/ecdc/total_deaths.csv</a></li><li><strong>New confirmed cases</strong>: <a href="https://covid.ourworldindata.org/data/ecdc/new_cases.csv">https://covid.ourworldindata.org/data/ecdc/new_cases.csv</a></li><li><strong>New deaths</strong>: <a href="https://covid.ourworldindata.org/data/ecdc/new_deaths.csv">https://covid.ourworldindata.org/data/ecdc/new_deaths.csv</a></li><li><strong>All four metrics</strong>: <a href="https://covid.ourworldindata.org/data/ecdc/full_data.csv">https://covid.ourworldindata.org/data/ecdc/full_data.csv</a></li><li><strong>Population data</strong>: <a href="https://covid.ourworldindata.org/data/ecdc/locations.csv">https://covid.ourworldindata.org/data/ecdc/locations.csv</a></li></ul></div><div class="wp-block-column"></div></div></section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+</div><footer class="article-footer"><div class="wp-block-columns"><div class="wp-block-column"></div><div class="wp-block-column"></div></div></footer></div></div></div></article></main><div id="wpadminbar" style="display:none"><div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar"><ul id="wp-admin-bar-root-default" class="ab-top-menu"><li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://owid.cloud/wp/wp-admin">Wordpress</a></li> <li id="wp-admin-bar-edit"><a class="ab-item" href="https://owid.cloud/wp/wp-admin/post.php?post=30479&amp;action=edit">Edit Page</a></li></ul></div></div><section class="donate-footer"><div class="wrapper"><div class="owid-row flex-align-center"><div class="owid-col owid-col--lg-3 owid-padding-bottom--sm-3"><p>Our World in Data is free and accessible for everyone.</p><p>Help us do this work by making a donation.</p></div><div class="owid-col owid-col--lg-1"><a href="https://ourworldindata.org/donate" class="owid-button donate-button" data-track-note="donate-footer"><span class="label">Donate now</span><span class="icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-right" class="svg-inline--fa fa-angle-right fa-w-8 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg></span></a></div></div></div></section><footer class="site-footer"><div class="wrapper"><div class="owid-row"><div class="owid-col owid-col--lg-1"><ul><li><a href="https://ourworldindata.org/about" data-track-note="footer-navigation">About</a></li><li><a href="https://ourworldindata.org/about#contact" data-track-note="footer-navigation">Contact</a></li><li><a href="https://ourworldindata.org/feedback" data-track-note="footer-navigation">Feedback</a></li><li><a href="https://ourworldindata.org/jobs" data-track-note="footer-navigation">Jobs</a></li><li><a href="https://ourworldindata.org/supporters" data-track-note="footer-navigation">Supporters</a></li><li><a href="https://ourworldindata.org/about/how-to-use-our-world-in-data" data-track-note="footer-navigation">How to use</a></li><li><a href="https://ourworldindata.org/donate" data-track-note="footer-navigation">Donate</a></li><li><a href="https://ourworldindata.org/privacy-policy" data-track-note="footer-navigation">Privacy policy</a></li></ul></div><div class="owid-col owid-col--lg-1"><ul><li><a href="https://ourworldindata.org/blog" data-track-note="footer-navigation">Latest publications</a></li><li><a href="https://ourworldindata.org/charts" data-track-note="footer-navigation">All charts</a></li></ul><ul><li><a href="https://twitter.com/OurWorldInData" data-track-note="footer-navigation">Twitter</a></li><li><a href="https://www.facebook.com/OurWorldinData" data-track-note="footer-navigation">Facebook</a></li><li><a href="https://github.com/owid" data-track-note="footer-navigation">GitHub</a></li><li><a href="https://ourworldindata.org/feed" data-track-note="footer-navigation">RSS Feed</a></li></ul></div><div class="owid-col owid-col--lg-1"><div class="logos"><a href="https://www.oxfordmartin.ox.ac.uk/research/programmes/global-development" class="partner-logo" data-track-note="footer-navigation"><img src="./Coronavirus Source Data - Our World in Data_files/oms-logo.svg" alt="Oxford Martin School logo"></a><a href="https://ourworldindata.org/owid-at-ycombinator" class="partner-logo" data-track-note="footer-navigation"><img src="./Coronavirus Source Data - Our World in Data_files/yc-logo.png" alt="Y Combinator logo"></a></div></div><div class="owid-col flex-2"><div class="legal"><p>License: All of Our World in Data is completely open access and all work is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY license</a>. You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.</p><p>Please consult our full <a href="https://ourworldindata.org/about#legal">legal disclaimer</a>.</p><p><a href="https://global-change-data-lab.org/" class="partner-logo gcdl-logo" data-track-note="footer-navigation"><img src="./Coronavirus Source Data - Our World in Data_files/gcdl-logo-narrow.png" alt="Global Change Data Lab logo"></a>Our World In Data is a project of the <a href="https://global-change-data-lab.org/">Global Change Data Lab</a>, a registered charity in England and Wales (Charity Number 1186433).</p></div></div></div></div><div class="site-tools"><div class="newsletter-subscription"><button aria-label="Subscribe to receive updates" class="prompt" data-track-note="dialog-open-newsletter"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope-open-text" class="svg-inline--fa fa-envelope-open-text fa-w-16 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M176 216h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16H176c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16zm-16 80c0 8.84 7.16 16 16 16h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16H176c-8.84 0-16 7.16-16 16v16zm96 121.13c-16.42 0-32.84-5.06-46.86-15.19L0 250.86V464c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V250.86L302.86 401.94c-14.02 10.12-30.44 15.19-46.86 15.19zm237.61-254.18c-8.85-6.94-17.24-13.47-29.61-22.81V96c0-26.51-21.49-48-48-48h-77.55c-3.04-2.2-5.87-4.26-9.04-6.56C312.6 29.17 279.2-.35 256 0c-23.2-.35-56.59 29.17-73.41 41.44-3.17 2.3-6 4.36-9.04 6.56H96c-26.51 0-48 21.49-48 48v44.14c-12.37 9.33-20.76 15.87-29.61 22.81A47.995 47.995 0 0 0 0 200.72v10.65l96 69.35V96h320v184.72l96-69.35v-10.65c0-14.74-6.78-28.67-18.39-37.77z"></path></svg> Subscribe to receive updates</button></div><div class="feedbackPromptContainer"><div style="display: none;"><div class="overlay"></div><div class="box"><form class="FeedbackForm"><div class="header">Leave us feedback</div><div class="notice"><p>We read and consider all feedback, but due to a high volume of messages we are not able to reply to all.</p></div><div class="formBody"><div class="formSection"><label for="feedback.name">Your name</label><input id="feedback.name"></div><div class="formSection"><label for="feedback.email">Email address</label><input id="feedback.email" type="email" required=""></div><div class="formSection formSectionExpand"><label for="feedback.message">Message</label><textarea id="feedback.message" rows="5" required=""></textarea></div></div><div class="footer"><button type="submit">Send message</button></div></form></div></div><button class="prompt" data-track-note="page-open-feedback"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment-alt" class="svg-inline--fa fa-comment-alt fa-w-16 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 9.8 11.2 15.5 19.1 9.7L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64z"></path></svg> Feedback</button></div></div><script src="./Coronavirus Source Data - Our World in Data_files/polyfill.min.js"></script><script src="./Coronavirus Source Data - Our World in Data_files/commons.js"></script><script src="./Coronavirus Source Data - Our World in Data_files/owid.js"></script><script>
+                runHeaderMenus();
+                runBlocks();
+                runLightbox();
+                runSiteTools();
+                runCookieNotice();
+                runCovid();
+                if (!document.querySelector(".ChartPage")) {
+                    Grapher.embedAll();
+                    runGlobalEntityControl(Grapher.globalEntitySelection);
+                }
+            </script></footer><script type="text/javascript" id="">window._fs_debug=!1;window._fs_host="fullstory.com";window._fs_script="edge.fullstory.com/s/fs.js";window._fs_org="HQQ6N";window._fs_namespace="FS";
+(function(d,g,h,k,f,e,a,b){h in d?d.console&&d.console.log&&d.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'):(a=d[h]=function(l,c,b){a.q?a.q.push([l,c,b]):a._api(l,c,b)},a.q=[],e=g.createElement(k),e.async=1,e.crossOrigin="anonymous",e.src="https://"+_fs_script,b=g.getElementsByTagName(k)[0],b.parentNode.insertBefore(e,b),a.identify=function(b,c,d){a(f,{uid:b},d);c&&a(f,c,d)},a.setUserVars=function(b,c){a(f,b,c)},a.event=function(b,c,d){a("event",{n:b,p:c},d)},a.anonymize=
+function(){a.identify(!1)},a.shutdown=function(){a("rec",!1)},a.restart=function(){a("rec",!0)},a.log=function(b,c){a("log",[b,c])},a.consent=function(b){a("consent",!arguments.length||b)},a.identifyAccount=function(b,c){e="account";c=c||{};c.acctId=b;a(e,c)},a.clearUserCookie=function(){},a._w={},b="XMLHttpRequest",a._w[b]=d[b],b="fetch",a._w[b]=d[b],d[b]&&(d[b]=function(){return a._w[b].apply(this,arguments)}),a._v="1.2.0")})(window,document,window._fs_namespace,"script","user");</script><div class="lightbox"></div><div><div class="cookie-notice open"><div class="wrapper"><div class="owid-row"><div class="owid-col owid-col--lg-1 explanation"><p>We use cookies to give you the best experience on our website. By continuing without changing your cookie settings, we assume you agree to this.</p></div><div class="owid-col owid-col--lg-0 actions"><a href="https://ourworldindata.org/privacy-policy" class="button">Read the privacy policy</a><button class="button accept"><span class="icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" class="svg-inline--fa fa-check fa-w-16 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> I agree</button></div></div></div></div></div><script>
+                        runTableOfContents({"headings":[],"pageTitle":"Coronavirus Source Data"})
+                        runRelatedCharts([])
+                        </script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2D4V8S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></body></html>
