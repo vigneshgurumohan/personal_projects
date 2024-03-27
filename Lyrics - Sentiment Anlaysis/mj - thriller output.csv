@@ -1,0 +1,1006 @@
+X.,song,word,sentiment
+2,Thriller,dark,sadness
+4,Thriller,scream,anger
+4,Thriller,scream,disgust
+4,Thriller,scream,fear
+4,Thriller,scream,negative
+4,Thriller,scream,surprise
+4,Thriller,terror,fear
+4,Thriller,terror,negative
+5,Thriller,start,anticipation
+5,Thriller,horror,anger
+5,Thriller,horror,disgust
+5,Thriller,horror,fear
+5,Thriller,horror,negative
+5,Thriller,horror,sadness
+5,Thriller,horror,surprise
+6,Thriller,paralyzed,anger
+6,Thriller,paralyzed,fear
+6,Thriller,paralyzed,negative
+6,Thriller,paralyzed,sadness
+6,Thriller,paralyzed,surprise
+8,Thriller,save,joy
+8,Thriller,save,positive
+8,Thriller,save,trust
+8,Thriller,beast,anger
+8,Thriller,beast,fear
+8,Thriller,beast,negative
+8,Thriller,strike,anger
+8,Thriller,strike,negative
+10,Thriller,fighting,anger
+10,Thriller,fighting,negative
+11,Thriller,slam,anger
+11,Thriller,slam,fear
+11,Thriller,slam,negative
+11,Thriller,slam,surprise
+12,Thriller,cold,negative
+12,Thriller,sun,anticipation
+12,Thriller,sun,joy
+12,Thriller,sun,positive
+12,Thriller,sun,surprise
+12,Thriller,sun,trust
+13,Thriller,hope,anticipation
+13,Thriller,hope,joy
+13,Thriller,hope,positive
+13,Thriller,hope,surprise
+13,Thriller,hope,trust
+14,Thriller,creature,disgust
+14,Thriller,creature,fear
+14,Thriller,creature,negative
+15,Thriller,time,anticipation
+17,Thriller,chance,surprise
+19,Thriller,fighting,anger
+19,Thriller,fighting,negative
+21,Thriller,start,anticipation
+22,Thriller,jaws,fear
+22,Thriller,alien,disgust
+22,Thriller,alien,fear
+22,Thriller,alien,negative
+22,Thriller,time,anticipation
+25,Thriller,possess,anticipation
+25,Thriller,possess,joy
+25,Thriller,possess,positive
+25,Thriller,possess,trust
+25,Thriller,change,fear
+26,Thriller,time,anticipation
+26,Thriller,cuddle,joy
+26,Thriller,cuddle,positive
+26,Thriller,cuddle,trust
+27,Thriller,save,joy
+27,Thriller,save,positive
+27,Thriller,save,trust
+27,Thriller,terror,fear
+27,Thriller,terror,negative
+30,Thriller,thrill,anticipation
+30,Thriller,thrill,fear
+30,Thriller,thrill,joy
+30,Thriller,thrill,positive
+30,Thriller,thrill,surprise
+30,Thriller,dare,anticipation
+30,Thriller,dare,trust
+32,Thriller,share,anticipation
+32,Thriller,share,joy
+32,Thriller,share,positive
+32,Thriller,share,trust
+35,Thriller,thrill,anticipation
+35,Thriller,thrill,fear
+35,Thriller,thrill,joy
+35,Thriller,thrill,positive
+35,Thriller,thrill,surprise
+35,Thriller,dare,anticipation
+35,Thriller,dare,trust
+37,Thriller,share,anticipation
+37,Thriller,share,joy
+37,Thriller,share,positive
+37,Thriller,share,trust
+38,Thriller,thrill,anticipation
+38,Thriller,thrill,fear
+38,Thriller,thrill,joy
+38,Thriller,thrill,positive
+38,Thriller,thrill,surprise
+40,Thriller,darkness,anger
+40,Thriller,darkness,fear
+40,Thriller,darkness,negative
+40,Thriller,darkness,sadness
+40,Thriller,land,positive
+42,Thriller,crawl,disgust
+42,Thriller,crawl,negative
+43,Thriller,terrorize,anger
+43,Thriller,terrorize,fear
+43,Thriller,terrorize,negative
+43,Thriller,terrorize,sadness
+43,Thriller,neighborhood,anticipation
+44,Thriller,found,joy
+44,Thriller,found,positive
+44,Thriller,found,trust
+46,Thriller,hell,anger
+46,Thriller,hell,disgust
+46,Thriller,hell,fear
+46,Thriller,hell,negative
+46,Thriller,hell,sadness
+47,Thriller,rot,disgust
+47,Thriller,rot,fear
+47,Thriller,rot,negative
+47,Thriller,rot,sadness
+47,Thriller,shell,anger
+47,Thriller,shell,fear
+47,Thriller,shell,negative
+47,Thriller,shell,sadness
+47,Thriller,shell,surprise
+49,Thriller,thrill,anticipation
+49,Thriller,thrill,fear
+49,Thriller,thrill,joy
+49,Thriller,thrill,positive
+49,Thriller,thrill,surprise
+52,Thriller,funk,negative
+52,Thriller,funk,sadness
+53,Thriller,grisly,disgust
+53,Thriller,grisly,fear
+53,Thriller,grisly,negative
+53,Thriller,tomb,sadness
+54,Thriller,seal,positive
+54,Thriller,seal,trust
+54,Thriller,doom,fear
+54,Thriller,doom,negative
+55,Thriller,fight,anger
+55,Thriller,fight,fear
+55,Thriller,fight,negative
+55,Thriller,alive,anticipation
+55,Thriller,alive,joy
+55,Thriller,alive,positive
+55,Thriller,alive,trust
+56,Thriller,shiver,anger
+56,Thriller,shiver,anticipation
+56,Thriller,shiver,fear
+56,Thriller,shiver,negative
+56,Thriller,shiver,sadness
+57,Thriller,mortal,negative
+57,Thriller,resist,negative
+58,Thriller,evil,anger
+58,Thriller,evil,disgust
+58,Thriller,evil,fear
+58,Thriller,evil,negative
+58,Thriller,evil,sadness
+59,Thriller,maniacal,negative
+59,Thriller,laugh,joy
+59,Thriller,laugh,positive
+59,Thriller,laugh,surprise
+67,Wanna Be Startin' Somethin',pain,fear
+67,Wanna Be Startin' Somethin',pain,negative
+67,Wanna Be Startin' Somethin',pain,sadness
+71,Wanna Be Startin' Somethin',pain,fear
+71,Wanna Be Startin' Somethin',pain,negative
+71,Wanna Be Startin' Somethin',pain,sadness
+72,Wanna Be Startin' Somethin',baby,joy
+72,Wanna Be Startin' Somethin',baby,positive
+72,Wanna Be Startin' Somethin',doctor,positive
+72,Wanna Be Startin' Somethin',doctor,trust
+73,Wanna Be Startin' Somethin',fever,fear
+73,Wanna Be Startin' Somethin',found,joy
+73,Wanna Be Startin' Somethin',found,positive
+73,Wanna Be Startin' Somethin',found,trust
+74,Wanna Be Startin' Somethin',time,anticipation
+74,Wanna Be Startin' Somethin',hit,anger
+74,Wanna Be Startin' Somethin',hit,negative
+75,Wanna Be Startin' Somethin',breakdown,negative
+77,Wanna Be Startin' Somethin',start,anticipation
+77,Wanna Be Startin' Somethin',baby,joy
+77,Wanna Be Startin' Somethin',baby,positive
+87,Wanna Be Startin' Somethin',pain,fear
+87,Wanna Be Startin' Somethin',pain,negative
+87,Wanna Be Startin' Somethin',pain,sadness
+91,Wanna Be Startin' Somethin',pain,fear
+91,Wanna Be Startin' Somethin',pain,negative
+91,Wanna Be Startin' Somethin',pain,sadness
+92,Wanna Be Startin' Somethin',love,joy
+92,Wanna Be Startin' Somethin',love,positive
+92,Wanna Be Startin' Somethin',pretend,negative
+92,Wanna Be Startin' Somethin',good,anticipation
+92,Wanna Be Startin' Somethin',good,joy
+92,Wanna Be Startin' Somethin',good,positive
+92,Wanna Be Startin' Somethin',good,surprise
+92,Wanna Be Startin' Somethin',good,trust
+93,Wanna Be Startin' Somethin',good,anticipation
+93,Wanna Be Startin' Somethin',good,joy
+93,Wanna Be Startin' Somethin',good,positive
+93,Wanna Be Startin' Somethin',good,surprise
+93,Wanna Be Startin' Somethin',good,trust
+94,Wanna Be Startin' Somethin',hate,anger
+94,Wanna Be Startin' Somethin',hate,disgust
+94,Wanna Be Startin' Somethin',hate,fear
+94,Wanna Be Startin' Somethin',hate,negative
+94,Wanna Be Startin' Somethin',hate,sadness
+95,Wanna Be Startin' Somethin',razor,fear
+97,Wanna Be Startin' Somethin',baby,joy
+97,Wanna Be Startin' Somethin',baby,positive
+98,Wanna Be Startin' Somethin',treacherous,anger
+98,Wanna Be Startin' Somethin',treacherous,disgust
+98,Wanna Be Startin' Somethin',treacherous,fear
+98,Wanna Be Startin' Somethin',treacherous,negative
+99,Wanna Be Startin' Somethin',baby,joy
+99,Wanna Be Startin' Somethin',baby,positive
+107,Wanna Be Startin' Somethin',pain,fear
+107,Wanna Be Startin' Somethin',pain,negative
+107,Wanna Be Startin' Somethin',pain,sadness
+111,Wanna Be Startin' Somethin',pain,fear
+111,Wanna Be Startin' Somethin',pain,negative
+111,Wanna Be Startin' Somethin',pain,sadness
+113,Wanna Be Startin' Somethin',hate,anger
+113,Wanna Be Startin' Somethin',hate,disgust
+113,Wanna Be Startin' Somethin',hate,fear
+113,Wanna Be Startin' Somethin',hate,negative
+113,Wanna Be Startin' Somethin',hate,sadness
+114,Wanna Be Startin' Somethin',buffet,anger
+114,Wanna Be Startin' Somethin',buffet,negative
+115,Wanna Be Startin' Somethin',eat,positive
+119,Wanna Be Startin' Somethin',mouth,surprise
+121,Wanna Be Startin' Somethin',start,anticipation
+121,Wanna Be Startin' Somethin',baby,joy
+121,Wanna Be Startin' Somethin',baby,positive
+131,Wanna Be Startin' Somethin',pain,fear
+131,Wanna Be Startin' Somethin',pain,negative
+131,Wanna Be Startin' Somethin',pain,sadness
+135,Wanna Be Startin' Somethin',pain,fear
+135,Wanna Be Startin' Somethin',pain,negative
+135,Wanna Be Startin' Somethin',pain,sadness
+137,Wanna Be Startin' Somethin',hate,anger
+137,Wanna Be Startin' Somethin',hate,disgust
+137,Wanna Be Startin' Somethin',hate,fear
+137,Wanna Be Startin' Somethin',hate,negative
+137,Wanna Be Startin' Somethin',hate,sadness
+138,Wanna Be Startin' Somethin',buffet,anger
+138,Wanna Be Startin' Somethin',buffet,negative
+139,Wanna Be Startin' Somethin',eat,positive
+140,Wanna Be Startin' Somethin',baby,joy
+140,Wanna Be Startin' Somethin',baby,positive
+141,Wanna Be Startin' Somethin',baby,joy
+141,Wanna Be Startin' Somethin',baby,positive
+143,Wanna Be Startin' Somethin',baby,joy
+143,Wanna Be Startin' Somethin',baby,positive
+145,Wanna Be Startin' Somethin',child,anticipation
+145,Wanna Be Startin' Somethin',child,joy
+145,Wanna Be Startin' Somethin',child,positive
+155,Wanna Be Startin' Somethin',pain,fear
+155,Wanna Be Startin' Somethin',pain,negative
+155,Wanna Be Startin' Somethin',pain,sadness
+159,Wanna Be Startin' Somethin',pain,fear
+159,Wanna Be Startin' Somethin',pain,negative
+159,Wanna Be Startin' Somethin',pain,sadness
+161,Wanna Be Startin' Somethin',scream,anger
+161,Wanna Be Startin' Somethin',scream,disgust
+161,Wanna Be Startin' Somethin',scream,fear
+161,Wanna Be Startin' Somethin',scream,negative
+161,Wanna Be Startin' Somethin',scream,surprise
+163,Wanna Be Startin' Somethin',truth,positive
+163,Wanna Be Startin' Somethin',truth,trust
+164,Wanna Be Startin' Somethin',hurt,anger
+164,Wanna Be Startin' Somethin',hurt,fear
+164,Wanna Be Startin' Somethin',hurt,negative
+164,Wanna Be Startin' Somethin',hurt,sadness
+165,Wanna Be Startin' Somethin',true,joy
+165,Wanna Be Startin' Somethin',true,positive
+165,Wanna Be Startin' Somethin',true,trust
+168,Wanna Be Startin' Somethin',sing,anticipation
+168,Wanna Be Startin' Somethin',sing,joy
+168,Wanna Be Startin' Somethin',sing,positive
+168,Wanna Be Startin' Somethin',sing,sadness
+168,Wanna Be Startin' Somethin',sing,trust
+172,Wanna Be Startin' Somethin',sing,anticipation
+172,Wanna Be Startin' Somethin',sing,joy
+172,Wanna Be Startin' Somethin',sing,positive
+172,Wanna Be Startin' Somethin',sing,sadness
+172,Wanna Be Startin' Somethin',sing,trust
+173,Wanna Be Startin' Somethin',sing,anticipation
+173,Wanna Be Startin' Somethin',sing,joy
+173,Wanna Be Startin' Somethin',sing,positive
+173,Wanna Be Startin' Somethin',sing,sadness
+173,Wanna Be Startin' Somethin',sing,trust
+174,Wanna Be Startin' Somethin',sing,anticipation
+174,Wanna Be Startin' Somethin',sing,joy
+174,Wanna Be Startin' Somethin',sing,positive
+174,Wanna Be Startin' Somethin',sing,sadness
+174,Wanna Be Startin' Somethin',sing,trust
+175,Wanna Be Startin' Somethin',sing,anticipation
+175,Wanna Be Startin' Somethin',sing,joy
+175,Wanna Be Startin' Somethin',sing,positive
+175,Wanna Be Startin' Somethin',sing,sadness
+175,Wanna Be Startin' Somethin',sing,trust
+180,Wanna Be Startin' Somethin',sing,anticipation
+180,Wanna Be Startin' Somethin',sing,joy
+180,Wanna Be Startin' Somethin',sing,positive
+180,Wanna Be Startin' Somethin',sing,sadness
+180,Wanna Be Startin' Somethin',sing,trust
+182,Wanna Be Startin' Somethin',sing,anticipation
+182,Wanna Be Startin' Somethin',sing,joy
+182,Wanna Be Startin' Somethin',sing,positive
+182,Wanna Be Startin' Somethin',sing,sadness
+182,Wanna Be Startin' Somethin',sing,trust
+187,Wanna Be Startin' Somethin',sing,anticipation
+187,Wanna Be Startin' Somethin',sing,joy
+187,Wanna Be Startin' Somethin',sing,positive
+187,Wanna Be Startin' Somethin',sing,sadness
+187,Wanna Be Startin' Somethin',sing,trust
+187,Wanna Be Startin' Somethin',baby,joy
+187,Wanna Be Startin' Somethin',baby,positive
+188,Wanna Be Startin' Somethin',sing,anticipation
+188,Wanna Be Startin' Somethin',sing,joy
+188,Wanna Be Startin' Somethin',sing,positive
+188,Wanna Be Startin' Somethin',sing,sadness
+188,Wanna Be Startin' Somethin',sing,trust
+189,Wanna Be Startin' Somethin',sing,anticipation
+189,Wanna Be Startin' Somethin',sing,joy
+189,Wanna Be Startin' Somethin',sing,positive
+189,Wanna Be Startin' Somethin',sing,sadness
+189,Wanna Be Startin' Somethin',sing,trust
+194,Baby Be Mine,show,trust
+194,Baby Be Mine,perfect,anticipation
+194,Baby Be Mine,perfect,joy
+194,Baby Be Mine,perfect,positive
+194,Baby Be Mine,perfect,trust
+194,Baby Be Mine,love,joy
+194,Baby Be Mine,love,positive
+196,Baby Be Mine,baby,joy
+196,Baby Be Mine,baby,positive
+196,Baby Be Mine,baby,joy
+196,Baby Be Mine,baby,positive
+198,Baby Be Mine,baby,joy
+198,Baby Be Mine,baby,positive
+198,Baby Be Mine,time,anticipation
+199,Baby Be Mine,share,anticipation
+199,Baby Be Mine,share,joy
+199,Baby Be Mine,share,positive
+199,Baby Be Mine,share,trust
+199,Baby Be Mine,ecstasy,anticipation
+199,Baby Be Mine,ecstasy,joy
+199,Baby Be Mine,ecstasy,positive
+200,Baby Be Mine,long,anticipation
+200,Baby Be Mine,love,joy
+200,Baby Be Mine,love,positive
+201,Baby Be Mine,reason,positive
+201,Baby Be Mine,change,fear
+202,Baby Be Mine,guess,surprise
+202,Baby Be Mine,thrill,anticipation
+202,Baby Be Mine,thrill,fear
+202,Baby Be Mine,thrill,joy
+202,Baby Be Mine,thrill,positive
+202,Baby Be Mine,thrill,surprise
+202,Baby Be Mine,baby,joy
+202,Baby Be Mine,baby,positive
+205,Baby Be Mine,share,anticipation
+205,Baby Be Mine,share,joy
+205,Baby Be Mine,share,positive
+205,Baby Be Mine,share,trust
+205,Baby Be Mine,embrace,anticipation
+205,Baby Be Mine,embrace,joy
+205,Baby Be Mine,embrace,positive
+205,Baby Be Mine,embrace,surprise
+205,Baby Be Mine,embrace,trust
+206,Baby Be Mine,show,trust
+206,Baby Be Mine,passion,anticipation
+206,Baby Be Mine,passion,joy
+206,Baby Be Mine,passion,positive
+206,Baby Be Mine,passion,trust
+207,Baby Be Mine,fade,negative
+208,Baby Be Mine,baby,joy
+208,Baby Be Mine,baby,positive
+208,Baby Be Mine,baby,joy
+208,Baby Be Mine,baby,positive
+210,Baby Be Mine,baby,joy
+210,Baby Be Mine,baby,positive
+210,Baby Be Mine,time,anticipation
+212,Baby Be Mine,reason,positive
+213,Baby Be Mine,sun,anticipation
+213,Baby Be Mine,sun,joy
+213,Baby Be Mine,sun,positive
+213,Baby Be Mine,sun,surprise
+213,Baby Be Mine,sun,trust
+214,Baby Be Mine,promise,joy
+214,Baby Be Mine,promise,positive
+214,Baby Be Mine,promise,trust
+214,Baby Be Mine,dawn,anticipation
+214,Baby Be Mine,dawn,joy
+214,Baby Be Mine,dawn,positive
+214,Baby Be Mine,dawn,surprise
+214,Baby Be Mine,dawn,trust
+215,Baby Be Mine,begun,anticipation
+218,Baby Be Mine,thrill,anticipation
+218,Baby Be Mine,thrill,fear
+218,Baby Be Mine,thrill,joy
+218,Baby Be Mine,thrill,positive
+218,Baby Be Mine,thrill,surprise
+218,Baby Be Mine,baby,joy
+218,Baby Be Mine,baby,positive
+219,Baby Be Mine,love,joy
+219,Baby Be Mine,love,positive
+219,Baby Be Mine,time,anticipation
+221,Baby Be Mine,sky,positive
+222,Baby Be Mine,sweet,anticipation
+222,Baby Be Mine,sweet,joy
+222,Baby Be Mine,sweet,positive
+222,Baby Be Mine,sweet,surprise
+222,Baby Be Mine,sweet,trust
+222,Baby Be Mine,love,joy
+222,Baby Be Mine,love,positive
+224,Baby Be Mine,baby,joy
+224,Baby Be Mine,baby,positive
+224,Baby Be Mine,baby,joy
+224,Baby Be Mine,baby,positive
+225,Baby Be Mine,love,joy
+225,Baby Be Mine,love,positive
+228,Baby Be Mine,baby,joy
+228,Baby Be Mine,baby,positive
+228,Baby Be Mine,time,anticipation
+229,Baby Be Mine,show,trust
+231,Baby Be Mine,reason,positive
+233,Baby Be Mine,baby,joy
+233,Baby Be Mine,baby,positive
+234,Baby Be Mine,love,joy
+234,Baby Be Mine,love,positive
+237,Baby Be Mine,baby,joy
+237,Baby Be Mine,baby,positive
+237,Baby Be Mine,baby,joy
+237,Baby Be Mine,baby,positive
+238,Baby Be Mine,show,trust
+242,Baby Be Mine,love,joy
+242,Baby Be Mine,love,positive
+244,Baby Be Mine,baby,joy
+244,Baby Be Mine,baby,positive
+245,Baby Be Mine,show,trust
+250,The Girl Is Mine,start,anticipation
+251,The Girl Is Mine,proud,anticipation
+251,The Girl Is Mine,proud,joy
+251,The Girl Is Mine,proud,positive
+251,The Girl Is Mine,proud,trust
+252,The Girl Is Mine,special,joy
+252,The Girl Is Mine,special,positive
+260,The Girl Is Mine,silly,joy
+260,The Girl Is Mine,silly,negative
+261,The Girl Is Mine,waste,disgust
+261,The Girl Is Mine,waste,negative
+261,The Girl Is Mine,time,anticipation
+264,The Girl Is Mine,waste,disgust
+264,The Girl Is Mine,waste,negative
+264,The Girl Is Mine,time,anticipation
+267,The Girl Is Mine,love,joy
+267,The Girl Is Mine,love,positive
+270,The Girl Is Mine,love,joy
+270,The Girl Is Mine,love,positive
+271,The Girl Is Mine,loving,joy
+271,The Girl Is Mine,loving,positive
+271,The Girl Is Mine,loving,trust
+271,The Girl Is Mine,share,anticipation
+271,The Girl Is Mine,share,joy
+271,The Girl Is Mine,share,positive
+271,The Girl Is Mine,share,trust
+281,The Girl Is Mine,build,positive
+282,The Girl Is Mine,time,anticipation
+288,The Girl Is Mine,waste,disgust
+288,The Girl Is Mine,waste,negative
+288,The Girl Is Mine,time,anticipation
+299,The Girl Is Mine,waste,disgust
+299,The Girl Is Mine,waste,negative
+299,The Girl Is Mine,time,anticipation
+303,The Girl Is Mine,fight,anger
+303,The Girl Is Mine,fight,fear
+303,The Girl Is Mine,fight,negative
+305,The Girl Is Mine,lover,anticipation
+305,The Girl Is Mine,lover,joy
+305,The Girl Is Mine,lover,positive
+305,The Girl Is Mine,lover,trust
+308,The Girl Is Mine,lover,anticipation
+308,The Girl Is Mine,lover,joy
+308,The Girl Is Mine,lover,positive
+308,The Girl Is Mine,lover,trust
+310,The Girl Is Mine,loving,joy
+310,The Girl Is Mine,loving,positive
+310,The Girl Is Mine,loving,trust
+310,The Girl Is Mine,love,joy
+310,The Girl Is Mine,love,positive
+328,Beat It,disappear,fear
+329,Beat It,words,anger
+329,Beat It,words,negative
+333,Beat It,tough,negative
+333,Beat It,tough,sadness
+334,Beat It,bad,anger
+334,Beat It,bad,disgust
+334,Beat It,bad,fear
+334,Beat It,bad,negative
+334,Beat It,bad,sadness
+335,Beat It,chorus,positive
+337,Beat It,defeated,negative
+337,Beat It,defeated,sadness
+338,Beat It,fight,anger
+338,Beat It,fight,fear
+338,Beat It,fight,negative
+339,Beat It,wrong,negative
+341,Beat It,leave,negative
+341,Beat It,leave,sadness
+341,Beat It,leave,surprise
+342,Beat It,boy,disgust
+342,Beat It,boy,negative
+343,Beat It,alive,anticipation
+343,Beat It,alive,joy
+343,Beat It,alive,positive
+343,Beat It,alive,trust
+345,Beat It,show,trust
+346,Beat It,truth,positive
+346,Beat It,truth,trust
+346,Beat It,dare,anticipation
+346,Beat It,dare,trust
+347,Beat It,kick,anger
+347,Beat It,kick,negative
+347,Beat It,fair,positive
+348,Beat It,bad,anger
+348,Beat It,bad,disgust
+348,Beat It,bad,fear
+348,Beat It,bad,negative
+348,Beat It,bad,sadness
+349,Beat It,chorus,positive
+351,Beat It,defeated,negative
+351,Beat It,defeated,sadness
+352,Beat It,fight,anger
+352,Beat It,fight,fear
+352,Beat It,fight,negative
+353,Beat It,wrong,negative
+356,Beat It,defeated,negative
+356,Beat It,defeated,sadness
+357,Beat It,fight,anger
+357,Beat It,fight,fear
+357,Beat It,fight,negative
+358,Beat It,wrong,negative
+359,Beat It,chorus,positive
+361,Beat It,defeated,negative
+361,Beat It,defeated,sadness
+362,Beat It,fight,anger
+362,Beat It,fight,fear
+362,Beat It,fight,negative
+363,Beat It,wrong,negative
+366,Billie Jean,beauty,joy
+366,Billie Jean,beauty,positive
+370,Billie Jean,dance,joy
+370,Billie Jean,dance,positive
+370,Billie Jean,dance,trust
+372,Billie Jean,dance,joy
+372,Billie Jean,dance,positive
+372,Billie Jean,dance,trust
+376,Billie Jean,dance,joy
+376,Billie Jean,dance,positive
+376,Billie Jean,dance,trust
+377,Billie Jean,careful,positive
+378,Billie Jean,young,anticipation
+378,Billie Jean,young,joy
+378,Billie Jean,young,positive
+378,Billie Jean,young,surprise
+379,Billie Jean,mother,anticipation
+379,Billie Jean,mother,joy
+379,Billie Jean,mother,negative
+379,Billie Jean,mother,positive
+379,Billie Jean,mother,sadness
+379,Billie Jean,mother,trust
+379,Billie Jean,careful,positive
+379,Billie Jean,love,joy
+379,Billie Jean,love,positive
+380,Billie Jean,careful,positive
+381,Billie Jean,lie,anger
+381,Billie Jean,lie,disgust
+381,Billie Jean,lie,negative
+381,Billie Jean,lie,sadness
+381,Billie Jean,truth,positive
+381,Billie Jean,truth,trust
+382,Billie Jean,lover,anticipation
+382,Billie Jean,lover,joy
+382,Billie Jean,lover,positive
+382,Billie Jean,lover,trust
+388,Billie Jean,law,trust
+390,Billie Jean,demand,anger
+390,Billie Jean,demand,negative
+393,Billie Jean,advice,trust
+396,Billie Jean,baby,joy
+396,Billie Jean,baby,positive
+398,Billie Jean,baby,joy
+398,Billie Jean,baby,positive
+398,Billie Jean,cry,negative
+398,Billie Jean,cry,sadness
+400,Billie Jean,dance,joy
+400,Billie Jean,dance,positive
+400,Billie Jean,dance,trust
+400,Billie Jean,baby,joy
+400,Billie Jean,baby,positive
+401,Billie Jean,careful,positive
+402,Billie Jean,young,anticipation
+402,Billie Jean,young,joy
+402,Billie Jean,young,positive
+402,Billie Jean,young,surprise
+403,Billie Jean,break,surprise
+405,Billie Jean,smell,anger
+405,Billie Jean,smell,disgust
+405,Billie Jean,smell,negative
+405,Billie Jean,sweet,anticipation
+405,Billie Jean,sweet,joy
+405,Billie Jean,sweet,positive
+405,Billie Jean,sweet,surprise
+405,Billie Jean,sweet,trust
+408,Billie Jean,lover,anticipation
+408,Billie Jean,lover,joy
+408,Billie Jean,lover,positive
+408,Billie Jean,lover,trust
+412,Billie Jean,lover,anticipation
+412,Billie Jean,lover,joy
+412,Billie Jean,lover,positive
+412,Billie Jean,lover,trust
+420,Billie Jean,lover,anticipation
+420,Billie Jean,lover,joy
+420,Billie Jean,lover,positive
+420,Billie Jean,lover,trust
+422,Billie Jean,baby,joy
+422,Billie Jean,baby,positive
+432,Billie Jean,lover,anticipation
+432,Billie Jean,lover,joy
+432,Billie Jean,lover,positive
+432,Billie Jean,lover,trust
+433,Billie Jean,lover,anticipation
+433,Billie Jean,lover,joy
+433,Billie Jean,lover,positive
+433,Billie Jean,lover,trust
+434,Billie Jean,lover,anticipation
+434,Billie Jean,lover,joy
+434,Billie Jean,lover,positive
+434,Billie Jean,lover,trust
+436,Billie Jean,lover,anticipation
+436,Billie Jean,lover,joy
+436,Billie Jean,lover,positive
+436,Billie Jean,lover,trust
+439,Billie Jean,lover,anticipation
+439,Billie Jean,lover,joy
+439,Billie Jean,lover,positive
+439,Billie Jean,lover,trust
+442,Billie Jean,lover,anticipation
+442,Billie Jean,lover,joy
+442,Billie Jean,lover,positive
+442,Billie Jean,lover,trust
+443,Billie Jean,lover,anticipation
+443,Billie Jean,lover,joy
+443,Billie Jean,lover,positive
+443,Billie Jean,lover,trust
+445,Human Nature,time,anticipation
+449,Human Nature,sweet,anticipation
+449,Human Nature,sweet,joy
+449,Human Nature,sweet,positive
+449,Human Nature,sweet,surprise
+449,Human Nature,sweet,trust
+451,Human Nature,time,anticipation
+455,Human Nature,bite,negative
+463,Human Nature,stranger,fear
+463,Human Nature,stranger,negative
+464,Human Nature,electric,joy
+464,Human Nature,electric,positive
+464,Human Nature,electric,surprise
+483,Human Nature,shoulder,positive
+483,Human Nature,shoulder,trust
+507,P.Y.T. (Pretty Young Thing),good,anticipation
+507,P.Y.T. (Pretty Young Thing),good,joy
+507,P.Y.T. (Pretty Young Thing),good,positive
+507,P.Y.T. (Pretty Young Thing),good,surprise
+507,P.Y.T. (Pretty Young Thing),good,trust
+509,P.Y.T. (Pretty Young Thing),pretty,anticipation
+509,P.Y.T. (Pretty Young Thing),pretty,joy
+509,P.Y.T. (Pretty Young Thing),pretty,positive
+509,P.Y.T. (Pretty Young Thing),pretty,trust
+509,P.Y.T. (Pretty Young Thing),young,anticipation
+509,P.Y.T. (Pretty Young Thing),young,joy
+509,P.Y.T. (Pretty Young Thing),young,positive
+509,P.Y.T. (Pretty Young Thing),young,surprise
+510,P.Y.T. (Pretty Young Thing),baby,joy
+510,P.Y.T. (Pretty Young Thing),baby,positive
+512,P.Y.T. (Pretty Young Thing),baby,joy
+512,P.Y.T. (Pretty Young Thing),baby,positive
+515,P.Y.T. (Pretty Young Thing),sugar,positive
+516,P.Y.T. (Pretty Young Thing),perfect,anticipation
+516,P.Y.T. (Pretty Young Thing),perfect,joy
+516,P.Y.T. (Pretty Young Thing),perfect,positive
+516,P.Y.T. (Pretty Young Thing),perfect,trust
+516,P.Y.T. (Pretty Young Thing),time,anticipation
+518,P.Y.T. (Pretty Young Thing),hit,anger
+518,P.Y.T. (Pretty Young Thing),hit,negative
+519,P.Y.T. (Pretty Young Thing),ease,positive
+519,P.Y.T. (Pretty Young Thing),love,joy
+519,P.Y.T. (Pretty Young Thing),love,positive
+519,P.Y.T. (Pretty Young Thing),pain,fear
+519,P.Y.T. (Pretty Young Thing),pain,negative
+519,P.Y.T. (Pretty Young Thing),pain,sadness
+521,P.Y.T. (Pretty Young Thing),love,joy
+521,P.Y.T. (Pretty Young Thing),love,positive
+522,P.Y.T. (Pretty Young Thing),pretty,anticipation
+522,P.Y.T. (Pretty Young Thing),pretty,joy
+522,P.Y.T. (Pretty Young Thing),pretty,positive
+522,P.Y.T. (Pretty Young Thing),pretty,trust
+522,P.Y.T. (Pretty Young Thing),young,anticipation
+522,P.Y.T. (Pretty Young Thing),young,joy
+522,P.Y.T. (Pretty Young Thing),young,positive
+522,P.Y.T. (Pretty Young Thing),young,surprise
+524,P.Y.T. (Pretty Young Thing),tender,joy
+524,P.Y.T. (Pretty Young Thing),tender,positive
+524,P.Y.T. (Pretty Young Thing),tender,trust
+524,P.Y.T. (Pretty Young Thing),love,joy
+524,P.Y.T. (Pretty Young Thing),love,positive
+526,P.Y.T. (Pretty Young Thing),love,joy
+526,P.Y.T. (Pretty Young Thing),love,positive
+527,P.Y.T. (Pretty Young Thing),pretty,anticipation
+527,P.Y.T. (Pretty Young Thing),pretty,joy
+527,P.Y.T. (Pretty Young Thing),pretty,positive
+527,P.Y.T. (Pretty Young Thing),pretty,trust
+527,P.Y.T. (Pretty Young Thing),young,anticipation
+527,P.Y.T. (Pretty Young Thing),young,joy
+527,P.Y.T. (Pretty Young Thing),young,positive
+527,P.Y.T. (Pretty Young Thing),young,surprise
+529,P.Y.T. (Pretty Young Thing),tender,joy
+529,P.Y.T. (Pretty Young Thing),tender,positive
+529,P.Y.T. (Pretty Young Thing),tender,trust
+529,P.Y.T. (Pretty Young Thing),love,joy
+529,P.Y.T. (Pretty Young Thing),love,positive
+534,P.Y.T. (Pretty Young Thing),baby,joy
+534,P.Y.T. (Pretty Young Thing),baby,positive
+535,P.Y.T. (Pretty Young Thing),emergency,fear
+535,P.Y.T. (Pretty Young Thing),emergency,negative
+535,P.Y.T. (Pretty Young Thing),emergency,sadness
+535,P.Y.T. (Pretty Young Thing),emergency,surprise
+536,P.Y.T. (Pretty Young Thing),cool,positive
+536,P.Y.T. (Pretty Young Thing),fire,fear
+537,P.Y.T. (Pretty Young Thing),honey,positive
+538,P.Y.T. (Pretty Young Thing),perfect,anticipation
+538,P.Y.T. (Pretty Young Thing),perfect,joy
+538,P.Y.T. (Pretty Young Thing),perfect,positive
+538,P.Y.T. (Pretty Young Thing),perfect,trust
+538,P.Y.T. (Pretty Young Thing),time,anticipation
+541,P.Y.T. (Pretty Young Thing),hit,anger
+541,P.Y.T. (Pretty Young Thing),hit,negative
+543,P.Y.T. (Pretty Young Thing),love,joy
+543,P.Y.T. (Pretty Young Thing),love,positive
+544,P.Y.T. (Pretty Young Thing),pretty,anticipation
+544,P.Y.T. (Pretty Young Thing),pretty,joy
+544,P.Y.T. (Pretty Young Thing),pretty,positive
+544,P.Y.T. (Pretty Young Thing),pretty,trust
+544,P.Y.T. (Pretty Young Thing),young,anticipation
+544,P.Y.T. (Pretty Young Thing),young,joy
+544,P.Y.T. (Pretty Young Thing),young,positive
+544,P.Y.T. (Pretty Young Thing),young,surprise
+546,P.Y.T. (Pretty Young Thing),tender,joy
+546,P.Y.T. (Pretty Young Thing),tender,positive
+546,P.Y.T. (Pretty Young Thing),tender,trust
+546,P.Y.T. (Pretty Young Thing),love,joy
+546,P.Y.T. (Pretty Young Thing),love,positive
+548,P.Y.T. (Pretty Young Thing),love,joy
+548,P.Y.T. (Pretty Young Thing),love,positive
+549,P.Y.T. (Pretty Young Thing),pretty,anticipation
+549,P.Y.T. (Pretty Young Thing),pretty,joy
+549,P.Y.T. (Pretty Young Thing),pretty,positive
+549,P.Y.T. (Pretty Young Thing),pretty,trust
+549,P.Y.T. (Pretty Young Thing),young,anticipation
+549,P.Y.T. (Pretty Young Thing),young,joy
+549,P.Y.T. (Pretty Young Thing),young,positive
+549,P.Y.T. (Pretty Young Thing),young,surprise
+551,P.Y.T. (Pretty Young Thing),tender,joy
+551,P.Y.T. (Pretty Young Thing),tender,positive
+551,P.Y.T. (Pretty Young Thing),tender,trust
+551,P.Y.T. (Pretty Young Thing),love,joy
+551,P.Y.T. (Pretty Young Thing),love,positive
+554,P.Y.T. (Pretty Young Thing),pretty,anticipation
+554,P.Y.T. (Pretty Young Thing),pretty,joy
+554,P.Y.T. (Pretty Young Thing),pretty,positive
+554,P.Y.T. (Pretty Young Thing),pretty,trust
+554,P.Y.T. (Pretty Young Thing),young,anticipation
+554,P.Y.T. (Pretty Young Thing),young,joy
+554,P.Y.T. (Pretty Young Thing),young,positive
+554,P.Y.T. (Pretty Young Thing),young,surprise
+556,P.Y.T. (Pretty Young Thing),pretty,anticipation
+556,P.Y.T. (Pretty Young Thing),pretty,joy
+556,P.Y.T. (Pretty Young Thing),pretty,positive
+556,P.Y.T. (Pretty Young Thing),pretty,trust
+556,P.Y.T. (Pretty Young Thing),young,anticipation
+556,P.Y.T. (Pretty Young Thing),young,joy
+556,P.Y.T. (Pretty Young Thing),young,positive
+556,P.Y.T. (Pretty Young Thing),young,surprise
+558,P.Y.T. (Pretty Young Thing),pretty,anticipation
+558,P.Y.T. (Pretty Young Thing),pretty,joy
+558,P.Y.T. (Pretty Young Thing),pretty,positive
+558,P.Y.T. (Pretty Young Thing),pretty,trust
+558,P.Y.T. (Pretty Young Thing),young,anticipation
+558,P.Y.T. (Pretty Young Thing),young,joy
+558,P.Y.T. (Pretty Young Thing),young,positive
+558,P.Y.T. (Pretty Young Thing),young,surprise
+568,P.Y.T. (Pretty Young Thing),love,joy
+568,P.Y.T. (Pretty Young Thing),love,positive
+569,P.Y.T. (Pretty Young Thing),pretty,anticipation
+569,P.Y.T. (Pretty Young Thing),pretty,joy
+569,P.Y.T. (Pretty Young Thing),pretty,positive
+569,P.Y.T. (Pretty Young Thing),pretty,trust
+569,P.Y.T. (Pretty Young Thing),young,anticipation
+569,P.Y.T. (Pretty Young Thing),young,joy
+569,P.Y.T. (Pretty Young Thing),young,positive
+569,P.Y.T. (Pretty Young Thing),young,surprise
+571,P.Y.T. (Pretty Young Thing),tender,joy
+571,P.Y.T. (Pretty Young Thing),tender,positive
+571,P.Y.T. (Pretty Young Thing),tender,trust
+571,P.Y.T. (Pretty Young Thing),love,joy
+571,P.Y.T. (Pretty Young Thing),love,positive
+575,P.Y.T. (Pretty Young Thing),love,joy
+575,P.Y.T. (Pretty Young Thing),love,positive
+576,P.Y.T. (Pretty Young Thing),pretty,anticipation
+576,P.Y.T. (Pretty Young Thing),pretty,joy
+576,P.Y.T. (Pretty Young Thing),pretty,positive
+576,P.Y.T. (Pretty Young Thing),pretty,trust
+576,P.Y.T. (Pretty Young Thing),young,anticipation
+576,P.Y.T. (Pretty Young Thing),young,joy
+576,P.Y.T. (Pretty Young Thing),young,positive
+576,P.Y.T. (Pretty Young Thing),young,surprise
+578,P.Y.T. (Pretty Young Thing),tender,joy
+578,P.Y.T. (Pretty Young Thing),tender,positive
+578,P.Y.T. (Pretty Young Thing),tender,trust
+578,P.Y.T. (Pretty Young Thing),love,joy
+578,P.Y.T. (Pretty Young Thing),love,positive
+581,P.Y.T. (Pretty Young Thing),fade,negative
+582,P.Y.T. (Pretty Young Thing),love,joy
+582,P.Y.T. (Pretty Young Thing),love,positive
+583,P.Y.T. (Pretty Young Thing),pretty,anticipation
+583,P.Y.T. (Pretty Young Thing),pretty,joy
+583,P.Y.T. (Pretty Young Thing),pretty,positive
+583,P.Y.T. (Pretty Young Thing),pretty,trust
+583,P.Y.T. (Pretty Young Thing),young,anticipation
+583,P.Y.T. (Pretty Young Thing),young,joy
+583,P.Y.T. (Pretty Young Thing),young,positive
+583,P.Y.T. (Pretty Young Thing),young,surprise
+584,P.Y.T. (Pretty Young Thing),baby,joy
+584,P.Y.T. (Pretty Young Thing),baby,positive
+586,P.Y.T. (Pretty Young Thing),pretty,anticipation
+586,P.Y.T. (Pretty Young Thing),pretty,joy
+586,P.Y.T. (Pretty Young Thing),pretty,positive
+586,P.Y.T. (Pretty Young Thing),pretty,trust
+586,P.Y.T. (Pretty Young Thing),young,anticipation
+586,P.Y.T. (Pretty Young Thing),young,joy
+586,P.Y.T. (Pretty Young Thing),young,positive
+586,P.Y.T. (Pretty Young Thing),young,surprise
+587,P.Y.T. (Pretty Young Thing),darling,joy
+587,P.Y.T. (Pretty Young Thing),darling,positive
+587,P.Y.T. (Pretty Young Thing),darling,trust
+590,P.Y.T. (Pretty Young Thing),pretty,anticipation
+590,P.Y.T. (Pretty Young Thing),pretty,joy
+590,P.Y.T. (Pretty Young Thing),pretty,positive
+590,P.Y.T. (Pretty Young Thing),pretty,trust
+590,P.Y.T. (Pretty Young Thing),young,anticipation
+590,P.Y.T. (Pretty Young Thing),young,joy
+590,P.Y.T. (Pretty Young Thing),young,positive
+590,P.Y.T. (Pretty Young Thing),young,surprise
+591,P.Y.T. (Pretty Young Thing),love,joy
+591,P.Y.T. (Pretty Young Thing),love,positive
+593,The Lady In My Life,darkness,anger
+593,The Lady In My Life,darkness,fear
+593,The Lady In My Life,darkness,negative
+593,The Lady In My Life,darkness,sadness
+594,The Lady In My Life,love,joy
+594,The Lady In My Life,love,positive
+594,The Lady In My Life,shine,positive
+596,The Lady In My Life,trust,trust
+598,The Lady In My Life,time,anticipation
+600,The Lady In My Life,treasure,anticipation
+600,The Lady In My Life,treasure,joy
+600,The Lady In My Life,treasure,positive
+600,The Lady In My Life,treasure,trust
+600,The Lady In My Life,time,anticipation
+600,The Lady In My Life,steal,anger
+600,The Lady In My Life,steal,fear
+600,The Lady In My Life,steal,negative
+600,The Lady In My Life,steal,sadness
+603,The Lady In My Life,fill,trust
+605,The Lady In My Life,baby,joy
+605,The Lady In My Life,baby,positive
+605,The Lady In My Life,love,joy
+605,The Lady In My Life,love,positive
+606,The Lady In My Life,promise,joy
+606,The Lady In My Life,promise,positive
+606,The Lady In My Life,promise,trust
+607,The Lady In My Life,tenderness,joy
+607,The Lady In My Life,tenderness,positive
+608,The Lady In My Life,forget,negative
+609,The Lady In My Life,sweet,anticipation
+609,The Lady In My Life,sweet,joy
+609,The Lady In My Life,sweet,positive
+609,The Lady In My Life,sweet,surprise
+609,The Lady In My Life,sweet,trust
+609,The Lady In My Life,caress,positive
+611,The Lady In My Life,ecstasy,anticipation
+611,The Lady In My Life,ecstasy,joy
+611,The Lady In My Life,ecstasy,positive
+615,The Lady In My Life,love,joy
+615,The Lady In My Life,love,positive
+617,The Lady In My Life,baby,joy
+617,The Lady In My Life,baby,positive
+618,The Lady In My Life,gray,disgust
+618,The Lady In My Life,gray,sadness
+619,The Lady In My Life,love,joy
+619,The Lady In My Life,love,positive
+629,The Lady In My Life,fill,trust
+629,The Lady In My Life,love,joy
+629,The Lady In My Life,love,positive
+630,The Lady In My Life,love,joy
+630,The Lady In My Life,love,positive
+632,The Lady In My Life,baby,joy
+632,The Lady In My Life,baby,positive
+633,The Lady In My Life,tenderness,joy
+633,The Lady In My Life,tenderness,positive
+636,The Lady In My Life,rock,positive
+636,The Lady In My Life,sweet,anticipation
+636,The Lady In My Life,sweet,joy
+636,The Lady In My Life,sweet,positive
+636,The Lady In My Life,sweet,surprise
+636,The Lady In My Life,sweet,trust
+636,The Lady In My Life,caress,positive
+638,The Lady In My Life,love,joy
+638,The Lady In My Life,love,positive
+642,The Lady In My Life,fill,trust
+642,The Lady In My Life,love,joy
+642,The Lady In My Life,love,positive
+643,The Lady In My Life,love,joy
+643,The Lady In My Life,love,positive
+643,The Lady In My Life,love,joy
+643,The Lady In My Life,love,positive
+645,The Lady In My Life,baby,joy
+645,The Lady In My Life,baby,positive
+646,The Lady In My Life,tenderness,joy
+646,The Lady In My Life,tenderness,positive
+650,The Lady In My Life,rock,positive
+650,The Lady In My Life,sweet,anticipation
+650,The Lady In My Life,sweet,joy
+650,The Lady In My Life,sweet,positive
+650,The Lady In My Life,sweet,surprise
+650,The Lady In My Life,sweet,trust
+650,The Lady In My Life,caress,positive
+651,The Lady In My Life,love,joy
+651,The Lady In My Life,love,positive
+651,The Lady In My Life,baby,joy
+651,The Lady In My Life,baby,positive
+654,The Lady In My Life,baby,joy
+654,The Lady In My Life,baby,positive
+662,The Lady In My Life,fill,trust
+662,The Lady In My Life,love,joy
+662,The Lady In My Life,love,positive
+663,The Lady In My Life,fill,trust
+663,The Lady In My Life,baby,joy
+663,The Lady In My Life,baby,positive
+666,The Lady In My Life,tenderness,joy
+666,The Lady In My Life,tenderness,positive
+670,The Lady In My Life,rock,positive
+670,The Lady In My Life,sweet,anticipation
+670,The Lady In My Life,sweet,joy
+670,The Lady In My Life,sweet,positive
+670,The Lady In My Life,sweet,surprise
+670,The Lady In My Life,sweet,trust
+670,The Lady In My Life,caress,positive
+675,The Lady In My Life,baby,joy
+675,The Lady In My Life,baby,positive
+678,The Lady In My Life,fill,trust
+678,The Lady In My Life,love,joy
+678,The Lady In My Life,love,positive
+681,The Lady In My Life,tenderness,joy
+681,The Lady In My Life,tenderness,positive
+682,The Lady In My Life,baby,joy
+682,The Lady In My Life,baby,positive
+686,Carousel,laughing,joy
+686,Carousel,laughing,positive
+693,Carousel,lost,negative
+693,Carousel,lost,sadness
+697,Carousel,lost,negative
+697,Carousel,lost,sadness
+701,Carousel,clown,anticipation
+701,Carousel,clown,joy
+701,Carousel,clown,positive
+701,Carousel,clown,surprise
+711,Carousel,lost,negative
+711,Carousel,lost,sadness
+715,Carousel,lost,negative
+715,Carousel,lost,sadness
+720,Carousel,love,joy
+720,Carousel,love,positive
+725,Carousel,lost,negative
+725,Carousel,lost,sadness
+729,Carousel,lost,negative
+729,Carousel,lost,sadness

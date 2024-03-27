@@ -1,0 +1,1500 @@
+sl,date,artist,album,song,word,sentiment
+1,30/11/82,Michael Jackson,thriller,Thriller,dark,sadness
+3,30/11/82,Michael Jackson,thriller,Thriller,scream,anger
+3,30/11/82,Michael Jackson,thriller,Thriller,scream,disgust
+3,30/11/82,Michael Jackson,thriller,Thriller,scream,fear
+3,30/11/82,Michael Jackson,thriller,Thriller,scream,negative
+3,30/11/82,Michael Jackson,thriller,Thriller,scream,surprise
+3,30/11/82,Michael Jackson,thriller,Thriller,terror,fear
+3,30/11/82,Michael Jackson,thriller,Thriller,terror,negative
+4,30/11/82,Michael Jackson,thriller,Thriller,start,anticipation
+4,30/11/82,Michael Jackson,thriller,Thriller,horror,anger
+4,30/11/82,Michael Jackson,thriller,Thriller,horror,disgust
+4,30/11/82,Michael Jackson,thriller,Thriller,horror,fear
+4,30/11/82,Michael Jackson,thriller,Thriller,horror,negative
+4,30/11/82,Michael Jackson,thriller,Thriller,horror,sadness
+4,30/11/82,Michael Jackson,thriller,Thriller,horror,surprise
+5,30/11/82,Michael Jackson,thriller,Thriller,paralyzed,anger
+5,30/11/82,Michael Jackson,thriller,Thriller,paralyzed,fear
+5,30/11/82,Michael Jackson,thriller,Thriller,paralyzed,negative
+5,30/11/82,Michael Jackson,thriller,Thriller,paralyzed,sadness
+5,30/11/82,Michael Jackson,thriller,Thriller,paralyzed,surprise
+7,30/11/82,Michael Jackson,thriller,Thriller,save,joy
+7,30/11/82,Michael Jackson,thriller,Thriller,save,positive
+7,30/11/82,Michael Jackson,thriller,Thriller,save,trust
+7,30/11/82,Michael Jackson,thriller,Thriller,beast,anger
+7,30/11/82,Michael Jackson,thriller,Thriller,beast,fear
+7,30/11/82,Michael Jackson,thriller,Thriller,beast,negative
+7,30/11/82,Michael Jackson,thriller,Thriller,strike,anger
+7,30/11/82,Michael Jackson,thriller,Thriller,strike,negative
+9,30/11/82,Michael Jackson,thriller,Thriller,fighting,anger
+9,30/11/82,Michael Jackson,thriller,Thriller,fighting,negative
+10,30/11/82,Michael Jackson,thriller,Thriller,slam,anger
+10,30/11/82,Michael Jackson,thriller,Thriller,slam,fear
+10,30/11/82,Michael Jackson,thriller,Thriller,slam,negative
+10,30/11/82,Michael Jackson,thriller,Thriller,slam,surprise
+11,30/11/82,Michael Jackson,thriller,Thriller,cold,negative
+11,30/11/82,Michael Jackson,thriller,Thriller,sun,anticipation
+11,30/11/82,Michael Jackson,thriller,Thriller,sun,joy
+11,30/11/82,Michael Jackson,thriller,Thriller,sun,positive
+11,30/11/82,Michael Jackson,thriller,Thriller,sun,surprise
+11,30/11/82,Michael Jackson,thriller,Thriller,sun,trust
+12,30/11/82,Michael Jackson,thriller,Thriller,hope,anticipation
+12,30/11/82,Michael Jackson,thriller,Thriller,hope,joy
+12,30/11/82,Michael Jackson,thriller,Thriller,hope,positive
+12,30/11/82,Michael Jackson,thriller,Thriller,hope,surprise
+12,30/11/82,Michael Jackson,thriller,Thriller,hope,trust
+13,30/11/82,Michael Jackson,thriller,Thriller,creature,disgust
+13,30/11/82,Michael Jackson,thriller,Thriller,creature,fear
+13,30/11/82,Michael Jackson,thriller,Thriller,creature,negative
+14,30/11/82,Michael Jackson,thriller,Thriller,time,anticipation
+16,30/11/82,Michael Jackson,thriller,Thriller,chance,surprise
+18,30/11/82,Michael Jackson,thriller,Thriller,fighting,anger
+18,30/11/82,Michael Jackson,thriller,Thriller,fighting,negative
+20,30/11/82,Michael Jackson,thriller,Thriller,start,anticipation
+21,30/11/82,Michael Jackson,thriller,Thriller,jaws,fear
+21,30/11/82,Michael Jackson,thriller,Thriller,alien,disgust
+21,30/11/82,Michael Jackson,thriller,Thriller,alien,fear
+21,30/11/82,Michael Jackson,thriller,Thriller,alien,negative
+21,30/11/82,Michael Jackson,thriller,Thriller,time,anticipation
+24,30/11/82,Michael Jackson,thriller,Thriller,possess,anticipation
+24,30/11/82,Michael Jackson,thriller,Thriller,possess,joy
+24,30/11/82,Michael Jackson,thriller,Thriller,possess,positive
+24,30/11/82,Michael Jackson,thriller,Thriller,possess,trust
+24,30/11/82,Michael Jackson,thriller,Thriller,change,fear
+25,30/11/82,Michael Jackson,thriller,Thriller,time,anticipation
+25,30/11/82,Michael Jackson,thriller,Thriller,cuddle,joy
+25,30/11/82,Michael Jackson,thriller,Thriller,cuddle,positive
+25,30/11/82,Michael Jackson,thriller,Thriller,cuddle,trust
+26,30/11/82,Michael Jackson,thriller,Thriller,save,joy
+26,30/11/82,Michael Jackson,thriller,Thriller,save,positive
+26,30/11/82,Michael Jackson,thriller,Thriller,save,trust
+26,30/11/82,Michael Jackson,thriller,Thriller,terror,fear
+26,30/11/82,Michael Jackson,thriller,Thriller,terror,negative
+29,30/11/82,Michael Jackson,thriller,Thriller,thrill,anticipation
+29,30/11/82,Michael Jackson,thriller,Thriller,thrill,fear
+29,30/11/82,Michael Jackson,thriller,Thriller,thrill,joy
+29,30/11/82,Michael Jackson,thriller,Thriller,thrill,positive
+29,30/11/82,Michael Jackson,thriller,Thriller,thrill,surprise
+29,30/11/82,Michael Jackson,thriller,Thriller,dare,anticipation
+29,30/11/82,Michael Jackson,thriller,Thriller,dare,trust
+31,30/11/82,Michael Jackson,thriller,Thriller,share,anticipation
+31,30/11/82,Michael Jackson,thriller,Thriller,share,joy
+31,30/11/82,Michael Jackson,thriller,Thriller,share,positive
+31,30/11/82,Michael Jackson,thriller,Thriller,share,trust
+34,30/11/82,Michael Jackson,thriller,Thriller,thrill,anticipation
+34,30/11/82,Michael Jackson,thriller,Thriller,thrill,fear
+34,30/11/82,Michael Jackson,thriller,Thriller,thrill,joy
+34,30/11/82,Michael Jackson,thriller,Thriller,thrill,positive
+34,30/11/82,Michael Jackson,thriller,Thriller,thrill,surprise
+34,30/11/82,Michael Jackson,thriller,Thriller,dare,anticipation
+34,30/11/82,Michael Jackson,thriller,Thriller,dare,trust
+36,30/11/82,Michael Jackson,thriller,Thriller,share,anticipation
+36,30/11/82,Michael Jackson,thriller,Thriller,share,joy
+36,30/11/82,Michael Jackson,thriller,Thriller,share,positive
+36,30/11/82,Michael Jackson,thriller,Thriller,share,trust
+37,30/11/82,Michael Jackson,thriller,Thriller,thrill,anticipation
+37,30/11/82,Michael Jackson,thriller,Thriller,thrill,fear
+37,30/11/82,Michael Jackson,thriller,Thriller,thrill,joy
+37,30/11/82,Michael Jackson,thriller,Thriller,thrill,positive
+37,30/11/82,Michael Jackson,thriller,Thriller,thrill,surprise
+39,30/11/82,Michael Jackson,thriller,Thriller,darkness,anger
+39,30/11/82,Michael Jackson,thriller,Thriller,darkness,fear
+39,30/11/82,Michael Jackson,thriller,Thriller,darkness,negative
+39,30/11/82,Michael Jackson,thriller,Thriller,darkness,sadness
+39,30/11/82,Michael Jackson,thriller,Thriller,land,positive
+41,30/11/82,Michael Jackson,thriller,Thriller,crawl,disgust
+41,30/11/82,Michael Jackson,thriller,Thriller,crawl,negative
+42,30/11/82,Michael Jackson,thriller,Thriller,terrorize,anger
+42,30/11/82,Michael Jackson,thriller,Thriller,terrorize,fear
+42,30/11/82,Michael Jackson,thriller,Thriller,terrorize,negative
+42,30/11/82,Michael Jackson,thriller,Thriller,terrorize,sadness
+42,30/11/82,Michael Jackson,thriller,Thriller,neighborhood,anticipation
+43,30/11/82,Michael Jackson,thriller,Thriller,found,joy
+43,30/11/82,Michael Jackson,thriller,Thriller,found,positive
+43,30/11/82,Michael Jackson,thriller,Thriller,found,trust
+45,30/11/82,Michael Jackson,thriller,Thriller,hell,anger
+45,30/11/82,Michael Jackson,thriller,Thriller,hell,disgust
+45,30/11/82,Michael Jackson,thriller,Thriller,hell,fear
+45,30/11/82,Michael Jackson,thriller,Thriller,hell,negative
+45,30/11/82,Michael Jackson,thriller,Thriller,hell,sadness
+46,30/11/82,Michael Jackson,thriller,Thriller,rot,disgust
+46,30/11/82,Michael Jackson,thriller,Thriller,rot,fear
+46,30/11/82,Michael Jackson,thriller,Thriller,rot,negative
+46,30/11/82,Michael Jackson,thriller,Thriller,rot,sadness
+46,30/11/82,Michael Jackson,thriller,Thriller,shell,anger
+46,30/11/82,Michael Jackson,thriller,Thriller,shell,fear
+46,30/11/82,Michael Jackson,thriller,Thriller,shell,negative
+46,30/11/82,Michael Jackson,thriller,Thriller,shell,sadness
+46,30/11/82,Michael Jackson,thriller,Thriller,shell,surprise
+48,30/11/82,Michael Jackson,thriller,Thriller,thrill,anticipation
+48,30/11/82,Michael Jackson,thriller,Thriller,thrill,fear
+48,30/11/82,Michael Jackson,thriller,Thriller,thrill,joy
+48,30/11/82,Michael Jackson,thriller,Thriller,thrill,positive
+48,30/11/82,Michael Jackson,thriller,Thriller,thrill,surprise
+51,30/11/82,Michael Jackson,thriller,Thriller,funk,negative
+51,30/11/82,Michael Jackson,thriller,Thriller,funk,sadness
+52,30/11/82,Michael Jackson,thriller,Thriller,grisly,disgust
+52,30/11/82,Michael Jackson,thriller,Thriller,grisly,fear
+52,30/11/82,Michael Jackson,thriller,Thriller,grisly,negative
+52,30/11/82,Michael Jackson,thriller,Thriller,tomb,sadness
+53,30/11/82,Michael Jackson,thriller,Thriller,seal,positive
+53,30/11/82,Michael Jackson,thriller,Thriller,seal,trust
+53,30/11/82,Michael Jackson,thriller,Thriller,doom,fear
+53,30/11/82,Michael Jackson,thriller,Thriller,doom,negative
+54,30/11/82,Michael Jackson,thriller,Thriller,fight,anger
+54,30/11/82,Michael Jackson,thriller,Thriller,fight,fear
+54,30/11/82,Michael Jackson,thriller,Thriller,fight,negative
+54,30/11/82,Michael Jackson,thriller,Thriller,alive,anticipation
+54,30/11/82,Michael Jackson,thriller,Thriller,alive,joy
+54,30/11/82,Michael Jackson,thriller,Thriller,alive,positive
+54,30/11/82,Michael Jackson,thriller,Thriller,alive,trust
+55,30/11/82,Michael Jackson,thriller,Thriller,shiver,anger
+55,30/11/82,Michael Jackson,thriller,Thriller,shiver,anticipation
+55,30/11/82,Michael Jackson,thriller,Thriller,shiver,fear
+55,30/11/82,Michael Jackson,thriller,Thriller,shiver,negative
+55,30/11/82,Michael Jackson,thriller,Thriller,shiver,sadness
+56,30/11/82,Michael Jackson,thriller,Thriller,mortal,negative
+56,30/11/82,Michael Jackson,thriller,Thriller,resist,negative
+57,30/11/82,Michael Jackson,thriller,Thriller,evil,anger
+57,30/11/82,Michael Jackson,thriller,Thriller,evil,disgust
+57,30/11/82,Michael Jackson,thriller,Thriller,evil,fear
+57,30/11/82,Michael Jackson,thriller,Thriller,evil,negative
+57,30/11/82,Michael Jackson,thriller,Thriller,evil,sadness
+58,30/11/82,Michael Jackson,thriller,Thriller,maniacal,negative
+58,30/11/82,Michael Jackson,thriller,Thriller,laugh,joy
+58,30/11/82,Michael Jackson,thriller,Thriller,laugh,positive
+58,30/11/82,Michael Jackson,thriller,Thriller,laugh,surprise
+66,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+66,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+66,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+70,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+70,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+70,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+71,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+71,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+71,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',doctor,positive
+71,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',doctor,trust
+72,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',fever,fear
+72,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',found,joy
+72,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',found,positive
+72,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',found,trust
+73,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',time,anticipation
+73,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hit,anger
+73,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hit,negative
+74,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',breakdown,negative
+76,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',start,anticipation
+76,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+76,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+86,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+86,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+86,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+90,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+90,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+90,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',love,joy
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',love,positive
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pretend,negative
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,anticipation
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,joy
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,positive
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,surprise
+91,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,trust
+92,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,anticipation
+92,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,joy
+92,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,positive
+92,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,surprise
+92,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',good,trust
+93,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,anger
+93,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,disgust
+93,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,fear
+93,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,negative
+93,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,sadness
+94,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',razor,fear
+96,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+96,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+97,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',treacherous,anger
+97,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',treacherous,disgust
+97,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',treacherous,fear
+97,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',treacherous,negative
+98,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+98,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+106,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+106,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+106,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+110,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+110,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+110,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+112,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,anger
+112,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,disgust
+112,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,fear
+112,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,negative
+112,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,sadness
+113,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',buffet,anger
+113,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',buffet,negative
+114,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',eat,positive
+118,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',mouth,surprise
+120,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',start,anticipation
+120,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+120,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+130,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+130,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+130,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+134,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+134,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+134,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+136,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,anger
+136,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,disgust
+136,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,fear
+136,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,negative
+136,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hate,sadness
+137,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',buffet,anger
+137,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',buffet,negative
+138,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',eat,positive
+139,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+139,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+140,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+140,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+142,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+142,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+144,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',child,anticipation
+144,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',child,joy
+144,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',child,positive
+154,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+154,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+154,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+158,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,fear
+158,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,negative
+158,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',pain,sadness
+160,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',scream,anger
+160,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',scream,disgust
+160,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',scream,fear
+160,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',scream,negative
+160,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',scream,surprise
+162,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',truth,positive
+162,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',truth,trust
+163,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hurt,anger
+163,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hurt,fear
+163,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hurt,negative
+163,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',hurt,sadness
+164,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',true,joy
+164,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',true,positive
+164,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',true,trust
+167,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+167,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+167,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+167,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+167,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+171,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+171,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+171,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+171,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+171,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+172,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+172,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+172,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+172,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+172,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+173,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+173,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+173,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+173,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+173,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+174,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+174,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+174,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+174,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+174,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+179,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+179,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+179,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+179,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+179,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+181,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+181,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+181,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+181,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+181,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,joy
+186,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',baby,positive
+187,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+187,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+187,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+187,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+187,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+188,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,anticipation
+188,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,joy
+188,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,positive
+188,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,sadness
+188,30/11/82,Michael Jackson,thriller,Wanna Be Startin' Somethin',sing,trust
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,show,trust
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,perfect,anticipation
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,perfect,joy
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,perfect,positive
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,perfect,trust
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+193,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+195,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+195,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+195,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+195,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+197,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+197,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+197,30/11/82,Michael Jackson,thriller,Baby Be Mine,time,anticipation
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,anticipation
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,joy
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,positive
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,trust
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,ecstasy,anticipation
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,ecstasy,joy
+198,30/11/82,Michael Jackson,thriller,Baby Be Mine,ecstasy,positive
+199,30/11/82,Michael Jackson,thriller,Baby Be Mine,long,anticipation
+199,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+199,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+200,30/11/82,Michael Jackson,thriller,Baby Be Mine,reason,positive
+200,30/11/82,Michael Jackson,thriller,Baby Be Mine,change,fear
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,guess,surprise
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,anticipation
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,fear
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,joy
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,positive
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,surprise
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+201,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,anticipation
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,joy
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,positive
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,share,trust
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,embrace,anticipation
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,embrace,joy
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,embrace,positive
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,embrace,surprise
+204,30/11/82,Michael Jackson,thriller,Baby Be Mine,embrace,trust
+205,30/11/82,Michael Jackson,thriller,Baby Be Mine,show,trust
+205,30/11/82,Michael Jackson,thriller,Baby Be Mine,passion,anticipation
+205,30/11/82,Michael Jackson,thriller,Baby Be Mine,passion,joy
+205,30/11/82,Michael Jackson,thriller,Baby Be Mine,passion,positive
+205,30/11/82,Michael Jackson,thriller,Baby Be Mine,passion,trust
+206,30/11/82,Michael Jackson,thriller,Baby Be Mine,fade,negative
+207,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+207,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+207,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+207,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+209,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+209,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+209,30/11/82,Michael Jackson,thriller,Baby Be Mine,time,anticipation
+211,30/11/82,Michael Jackson,thriller,Baby Be Mine,reason,positive
+212,30/11/82,Michael Jackson,thriller,Baby Be Mine,sun,anticipation
+212,30/11/82,Michael Jackson,thriller,Baby Be Mine,sun,joy
+212,30/11/82,Michael Jackson,thriller,Baby Be Mine,sun,positive
+212,30/11/82,Michael Jackson,thriller,Baby Be Mine,sun,surprise
+212,30/11/82,Michael Jackson,thriller,Baby Be Mine,sun,trust
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,promise,joy
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,promise,positive
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,promise,trust
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,dawn,anticipation
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,dawn,joy
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,dawn,positive
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,dawn,surprise
+213,30/11/82,Michael Jackson,thriller,Baby Be Mine,dawn,trust
+214,30/11/82,Michael Jackson,thriller,Baby Be Mine,begun,anticipation
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,anticipation
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,fear
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,joy
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,positive
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,thrill,surprise
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+217,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+218,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+218,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+218,30/11/82,Michael Jackson,thriller,Baby Be Mine,time,anticipation
+220,30/11/82,Michael Jackson,thriller,Baby Be Mine,sky,positive
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,sweet,anticipation
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,sweet,joy
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,sweet,positive
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,sweet,surprise
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,sweet,trust
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+221,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+223,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+223,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+223,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+223,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+224,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+224,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+227,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+227,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+227,30/11/82,Michael Jackson,thriller,Baby Be Mine,time,anticipation
+228,30/11/82,Michael Jackson,thriller,Baby Be Mine,show,trust
+230,30/11/82,Michael Jackson,thriller,Baby Be Mine,reason,positive
+232,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+232,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+233,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+233,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+236,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+236,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+236,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+236,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+237,30/11/82,Michael Jackson,thriller,Baby Be Mine,show,trust
+241,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,joy
+241,30/11/82,Michael Jackson,thriller,Baby Be Mine,love,positive
+243,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,joy
+243,30/11/82,Michael Jackson,thriller,Baby Be Mine,baby,positive
+244,30/11/82,Michael Jackson,thriller,Baby Be Mine,show,trust
+249,30/11/82,Michael Jackson,thriller,The Girl Is Mine,start,anticipation
+250,30/11/82,Michael Jackson,thriller,The Girl Is Mine,proud,anticipation
+250,30/11/82,Michael Jackson,thriller,The Girl Is Mine,proud,joy
+250,30/11/82,Michael Jackson,thriller,The Girl Is Mine,proud,positive
+250,30/11/82,Michael Jackson,thriller,The Girl Is Mine,proud,trust
+251,30/11/82,Michael Jackson,thriller,The Girl Is Mine,special,joy
+251,30/11/82,Michael Jackson,thriller,The Girl Is Mine,special,positive
+259,30/11/82,Michael Jackson,thriller,The Girl Is Mine,silly,joy
+259,30/11/82,Michael Jackson,thriller,The Girl Is Mine,silly,negative
+260,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,disgust
+260,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,negative
+260,30/11/82,Michael Jackson,thriller,The Girl Is Mine,time,anticipation
+263,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,disgust
+263,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,negative
+263,30/11/82,Michael Jackson,thriller,The Girl Is Mine,time,anticipation
+266,30/11/82,Michael Jackson,thriller,The Girl Is Mine,love,joy
+266,30/11/82,Michael Jackson,thriller,The Girl Is Mine,love,positive
+269,30/11/82,Michael Jackson,thriller,The Girl Is Mine,love,joy
+269,30/11/82,Michael Jackson,thriller,The Girl Is Mine,love,positive
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,loving,joy
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,loving,positive
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,loving,trust
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,share,anticipation
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,share,joy
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,share,positive
+270,30/11/82,Michael Jackson,thriller,The Girl Is Mine,share,trust
+280,30/11/82,Michael Jackson,thriller,The Girl Is Mine,build,positive
+281,30/11/82,Michael Jackson,thriller,The Girl Is Mine,time,anticipation
+287,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,disgust
+287,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,negative
+287,30/11/82,Michael Jackson,thriller,The Girl Is Mine,time,anticipation
+298,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,disgust
+298,30/11/82,Michael Jackson,thriller,The Girl Is Mine,waste,negative
+298,30/11/82,Michael Jackson,thriller,The Girl Is Mine,time,anticipation
+302,30/11/82,Michael Jackson,thriller,The Girl Is Mine,fight,anger
+302,30/11/82,Michael Jackson,thriller,The Girl Is Mine,fight,fear
+302,30/11/82,Michael Jackson,thriller,The Girl Is Mine,fight,negative
+304,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,anticipation
+304,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,joy
+304,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,positive
+304,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,trust
+307,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,anticipation
+307,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,joy
+307,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,positive
+307,30/11/82,Michael Jackson,thriller,The Girl Is Mine,lover,trust
+309,30/11/82,Michael Jackson,thriller,The Girl Is Mine,loving,joy
+309,30/11/82,Michael Jackson,thriller,The Girl Is Mine,loving,positive
+309,30/11/82,Michael Jackson,thriller,The Girl Is Mine,loving,trust
+309,30/11/82,Michael Jackson,thriller,The Girl Is Mine,love,joy
+309,30/11/82,Michael Jackson,thriller,The Girl Is Mine,love,positive
+327,30/11/82,Michael Jackson,thriller,Beat It,disappear,fear
+328,30/11/82,Michael Jackson,thriller,Beat It,words,anger
+328,30/11/82,Michael Jackson,thriller,Beat It,words,negative
+332,30/11/82,Michael Jackson,thriller,Beat It,tough,negative
+332,30/11/82,Michael Jackson,thriller,Beat It,tough,sadness
+333,30/11/82,Michael Jackson,thriller,Beat It,bad,anger
+333,30/11/82,Michael Jackson,thriller,Beat It,bad,disgust
+333,30/11/82,Michael Jackson,thriller,Beat It,bad,fear
+333,30/11/82,Michael Jackson,thriller,Beat It,bad,negative
+333,30/11/82,Michael Jackson,thriller,Beat It,bad,sadness
+334,30/11/82,Michael Jackson,thriller,Beat It,chorus,positive
+336,30/11/82,Michael Jackson,thriller,Beat It,defeated,negative
+336,30/11/82,Michael Jackson,thriller,Beat It,defeated,sadness
+337,30/11/82,Michael Jackson,thriller,Beat It,fight,anger
+337,30/11/82,Michael Jackson,thriller,Beat It,fight,fear
+337,30/11/82,Michael Jackson,thriller,Beat It,fight,negative
+338,30/11/82,Michael Jackson,thriller,Beat It,wrong,negative
+340,30/11/82,Michael Jackson,thriller,Beat It,leave,negative
+340,30/11/82,Michael Jackson,thriller,Beat It,leave,sadness
+340,30/11/82,Michael Jackson,thriller,Beat It,leave,surprise
+341,30/11/82,Michael Jackson,thriller,Beat It,boy,disgust
+341,30/11/82,Michael Jackson,thriller,Beat It,boy,negative
+342,30/11/82,Michael Jackson,thriller,Beat It,alive,anticipation
+342,30/11/82,Michael Jackson,thriller,Beat It,alive,joy
+342,30/11/82,Michael Jackson,thriller,Beat It,alive,positive
+342,30/11/82,Michael Jackson,thriller,Beat It,alive,trust
+344,30/11/82,Michael Jackson,thriller,Beat It,show,trust
+345,30/11/82,Michael Jackson,thriller,Beat It,truth,positive
+345,30/11/82,Michael Jackson,thriller,Beat It,truth,trust
+345,30/11/82,Michael Jackson,thriller,Beat It,dare,anticipation
+345,30/11/82,Michael Jackson,thriller,Beat It,dare,trust
+346,30/11/82,Michael Jackson,thriller,Beat It,kick,anger
+346,30/11/82,Michael Jackson,thriller,Beat It,kick,negative
+346,30/11/82,Michael Jackson,thriller,Beat It,fair,positive
+347,30/11/82,Michael Jackson,thriller,Beat It,bad,anger
+347,30/11/82,Michael Jackson,thriller,Beat It,bad,disgust
+347,30/11/82,Michael Jackson,thriller,Beat It,bad,fear
+347,30/11/82,Michael Jackson,thriller,Beat It,bad,negative
+347,30/11/82,Michael Jackson,thriller,Beat It,bad,sadness
+348,30/11/82,Michael Jackson,thriller,Beat It,chorus,positive
+350,30/11/82,Michael Jackson,thriller,Beat It,defeated,negative
+350,30/11/82,Michael Jackson,thriller,Beat It,defeated,sadness
+351,30/11/82,Michael Jackson,thriller,Beat It,fight,anger
+351,30/11/82,Michael Jackson,thriller,Beat It,fight,fear
+351,30/11/82,Michael Jackson,thriller,Beat It,fight,negative
+352,30/11/82,Michael Jackson,thriller,Beat It,wrong,negative
+355,30/11/82,Michael Jackson,thriller,Beat It,defeated,negative
+355,30/11/82,Michael Jackson,thriller,Beat It,defeated,sadness
+356,30/11/82,Michael Jackson,thriller,Beat It,fight,anger
+356,30/11/82,Michael Jackson,thriller,Beat It,fight,fear
+356,30/11/82,Michael Jackson,thriller,Beat It,fight,negative
+357,30/11/82,Michael Jackson,thriller,Beat It,wrong,negative
+358,30/11/82,Michael Jackson,thriller,Beat It,chorus,positive
+360,30/11/82,Michael Jackson,thriller,Beat It,defeated,negative
+360,30/11/82,Michael Jackson,thriller,Beat It,defeated,sadness
+361,30/11/82,Michael Jackson,thriller,Beat It,fight,anger
+361,30/11/82,Michael Jackson,thriller,Beat It,fight,fear
+361,30/11/82,Michael Jackson,thriller,Beat It,fight,negative
+362,30/11/82,Michael Jackson,thriller,Beat It,wrong,negative
+365,30/11/82,Michael Jackson,thriller,Billie Jean,beauty,joy
+365,30/11/82,Michael Jackson,thriller,Billie Jean,beauty,positive
+369,30/11/82,Michael Jackson,thriller,Billie Jean,dance,joy
+369,30/11/82,Michael Jackson,thriller,Billie Jean,dance,positive
+369,30/11/82,Michael Jackson,thriller,Billie Jean,dance,trust
+371,30/11/82,Michael Jackson,thriller,Billie Jean,dance,joy
+371,30/11/82,Michael Jackson,thriller,Billie Jean,dance,positive
+371,30/11/82,Michael Jackson,thriller,Billie Jean,dance,trust
+375,30/11/82,Michael Jackson,thriller,Billie Jean,dance,joy
+375,30/11/82,Michael Jackson,thriller,Billie Jean,dance,positive
+375,30/11/82,Michael Jackson,thriller,Billie Jean,dance,trust
+376,30/11/82,Michael Jackson,thriller,Billie Jean,careful,positive
+377,30/11/82,Michael Jackson,thriller,Billie Jean,young,anticipation
+377,30/11/82,Michael Jackson,thriller,Billie Jean,young,joy
+377,30/11/82,Michael Jackson,thriller,Billie Jean,young,positive
+377,30/11/82,Michael Jackson,thriller,Billie Jean,young,surprise
+378,30/11/82,Michael Jackson,thriller,Billie Jean,mother,anticipation
+378,30/11/82,Michael Jackson,thriller,Billie Jean,mother,joy
+378,30/11/82,Michael Jackson,thriller,Billie Jean,mother,negative
+378,30/11/82,Michael Jackson,thriller,Billie Jean,mother,positive
+378,30/11/82,Michael Jackson,thriller,Billie Jean,mother,sadness
+378,30/11/82,Michael Jackson,thriller,Billie Jean,mother,trust
+378,30/11/82,Michael Jackson,thriller,Billie Jean,careful,positive
+378,30/11/82,Michael Jackson,thriller,Billie Jean,love,joy
+378,30/11/82,Michael Jackson,thriller,Billie Jean,love,positive
+379,30/11/82,Michael Jackson,thriller,Billie Jean,careful,positive
+380,30/11/82,Michael Jackson,thriller,Billie Jean,lie,anger
+380,30/11/82,Michael Jackson,thriller,Billie Jean,lie,disgust
+380,30/11/82,Michael Jackson,thriller,Billie Jean,lie,negative
+380,30/11/82,Michael Jackson,thriller,Billie Jean,lie,sadness
+380,30/11/82,Michael Jackson,thriller,Billie Jean,truth,positive
+380,30/11/82,Michael Jackson,thriller,Billie Jean,truth,trust
+381,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+381,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+381,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+381,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+387,30/11/82,Michael Jackson,thriller,Billie Jean,law,trust
+389,30/11/82,Michael Jackson,thriller,Billie Jean,demand,anger
+389,30/11/82,Michael Jackson,thriller,Billie Jean,demand,negative
+392,30/11/82,Michael Jackson,thriller,Billie Jean,advice,trust
+395,30/11/82,Michael Jackson,thriller,Billie Jean,baby,joy
+395,30/11/82,Michael Jackson,thriller,Billie Jean,baby,positive
+397,30/11/82,Michael Jackson,thriller,Billie Jean,baby,joy
+397,30/11/82,Michael Jackson,thriller,Billie Jean,baby,positive
+397,30/11/82,Michael Jackson,thriller,Billie Jean,cry,negative
+397,30/11/82,Michael Jackson,thriller,Billie Jean,cry,sadness
+399,30/11/82,Michael Jackson,thriller,Billie Jean,dance,joy
+399,30/11/82,Michael Jackson,thriller,Billie Jean,dance,positive
+399,30/11/82,Michael Jackson,thriller,Billie Jean,dance,trust
+399,30/11/82,Michael Jackson,thriller,Billie Jean,baby,joy
+399,30/11/82,Michael Jackson,thriller,Billie Jean,baby,positive
+400,30/11/82,Michael Jackson,thriller,Billie Jean,careful,positive
+401,30/11/82,Michael Jackson,thriller,Billie Jean,young,anticipation
+401,30/11/82,Michael Jackson,thriller,Billie Jean,young,joy
+401,30/11/82,Michael Jackson,thriller,Billie Jean,young,positive
+401,30/11/82,Michael Jackson,thriller,Billie Jean,young,surprise
+402,30/11/82,Michael Jackson,thriller,Billie Jean,break,surprise
+404,30/11/82,Michael Jackson,thriller,Billie Jean,smell,anger
+404,30/11/82,Michael Jackson,thriller,Billie Jean,smell,disgust
+404,30/11/82,Michael Jackson,thriller,Billie Jean,smell,negative
+404,30/11/82,Michael Jackson,thriller,Billie Jean,sweet,anticipation
+404,30/11/82,Michael Jackson,thriller,Billie Jean,sweet,joy
+404,30/11/82,Michael Jackson,thriller,Billie Jean,sweet,positive
+404,30/11/82,Michael Jackson,thriller,Billie Jean,sweet,surprise
+404,30/11/82,Michael Jackson,thriller,Billie Jean,sweet,trust
+407,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+407,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+407,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+407,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+411,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+411,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+411,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+411,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+419,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+419,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+419,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+419,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+421,30/11/82,Michael Jackson,thriller,Billie Jean,baby,joy
+421,30/11/82,Michael Jackson,thriller,Billie Jean,baby,positive
+431,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+431,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+431,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+431,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+432,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+432,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+432,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+432,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+433,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+433,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+433,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+433,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+435,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+435,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+435,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+435,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+438,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+438,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+438,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+438,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+441,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+441,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+441,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+441,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+442,30/11/82,Michael Jackson,thriller,Billie Jean,lover,anticipation
+442,30/11/82,Michael Jackson,thriller,Billie Jean,lover,joy
+442,30/11/82,Michael Jackson,thriller,Billie Jean,lover,positive
+442,30/11/82,Michael Jackson,thriller,Billie Jean,lover,trust
+444,30/11/82,Michael Jackson,thriller,Human Nature,time,anticipation
+448,30/11/82,Michael Jackson,thriller,Human Nature,sweet,anticipation
+448,30/11/82,Michael Jackson,thriller,Human Nature,sweet,joy
+448,30/11/82,Michael Jackson,thriller,Human Nature,sweet,positive
+448,30/11/82,Michael Jackson,thriller,Human Nature,sweet,surprise
+448,30/11/82,Michael Jackson,thriller,Human Nature,sweet,trust
+450,30/11/82,Michael Jackson,thriller,Human Nature,time,anticipation
+454,30/11/82,Michael Jackson,thriller,Human Nature,bite,negative
+462,30/11/82,Michael Jackson,thriller,Human Nature,stranger,fear
+462,30/11/82,Michael Jackson,thriller,Human Nature,stranger,negative
+463,30/11/82,Michael Jackson,thriller,Human Nature,electric,joy
+463,30/11/82,Michael Jackson,thriller,Human Nature,electric,positive
+463,30/11/82,Michael Jackson,thriller,Human Nature,electric,surprise
+482,30/11/82,Michael Jackson,thriller,Human Nature,shoulder,positive
+482,30/11/82,Michael Jackson,thriller,Human Nature,shoulder,trust
+506,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),good,anticipation
+506,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),good,joy
+506,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),good,positive
+506,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),good,surprise
+506,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),good,trust
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+508,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+509,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,joy
+509,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,positive
+511,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,joy
+511,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,positive
+514,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),sugar,positive
+515,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,anticipation
+515,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,joy
+515,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,positive
+515,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,trust
+515,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),time,anticipation
+517,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),hit,anger
+517,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),hit,negative
+518,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),ease,positive
+518,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+518,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+518,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pain,fear
+518,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pain,negative
+518,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pain,sadness
+520,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+520,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+521,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+523,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,joy
+523,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,positive
+523,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,trust
+523,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+523,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+525,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+525,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+526,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+528,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,joy
+528,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,positive
+528,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,trust
+528,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+528,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+533,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,joy
+533,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,positive
+534,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),emergency,fear
+534,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),emergency,negative
+534,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),emergency,sadness
+534,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),emergency,surprise
+535,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),cool,positive
+535,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),fire,fear
+536,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),honey,positive
+537,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,anticipation
+537,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,joy
+537,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,positive
+537,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),perfect,trust
+537,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),time,anticipation
+540,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),hit,anger
+540,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),hit,negative
+542,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+542,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+543,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+545,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,joy
+545,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,positive
+545,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,trust
+545,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+545,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+547,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+547,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+548,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+550,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,joy
+550,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,positive
+550,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,trust
+550,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+550,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+553,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+555,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+557,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+567,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+567,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+568,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+570,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,joy
+570,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,positive
+570,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,trust
+570,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+570,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+574,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+574,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+575,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+577,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,joy
+577,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,positive
+577,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),tender,trust
+577,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+577,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+580,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),fade,negative
+581,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+581,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+582,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+583,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,joy
+583,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),baby,positive
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+585,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+586,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),darling,joy
+586,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),darling,positive
+586,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),darling,trust
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,anticipation
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,joy
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,positive
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),pretty,trust
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,anticipation
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,joy
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,positive
+589,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),young,surprise
+590,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,joy
+590,30/11/82,Michael Jackson,thriller,P.Y.T. (Pretty Young Thing),love,positive
+592,30/11/82,Michael Jackson,thriller,The Lady In My Life,darkness,anger
+592,30/11/82,Michael Jackson,thriller,The Lady In My Life,darkness,fear
+592,30/11/82,Michael Jackson,thriller,The Lady In My Life,darkness,negative
+592,30/11/82,Michael Jackson,thriller,The Lady In My Life,darkness,sadness
+593,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+593,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+593,30/11/82,Michael Jackson,thriller,The Lady In My Life,shine,positive
+595,30/11/82,Michael Jackson,thriller,The Lady In My Life,trust,trust
+597,30/11/82,Michael Jackson,thriller,The Lady In My Life,time,anticipation
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,treasure,anticipation
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,treasure,joy
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,treasure,positive
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,treasure,trust
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,time,anticipation
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,steal,anger
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,steal,fear
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,steal,negative
+599,30/11/82,Michael Jackson,thriller,The Lady In My Life,steal,sadness
+602,30/11/82,Michael Jackson,thriller,The Lady In My Life,fill,trust
+604,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+604,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+604,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+604,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+605,30/11/82,Michael Jackson,thriller,The Lady In My Life,promise,joy
+605,30/11/82,Michael Jackson,thriller,The Lady In My Life,promise,positive
+605,30/11/82,Michael Jackson,thriller,The Lady In My Life,promise,trust
+606,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,joy
+606,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,positive
+607,30/11/82,Michael Jackson,thriller,The Lady In My Life,forget,negative
+608,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,anticipation
+608,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,joy
+608,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,positive
+608,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,surprise
+608,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,trust
+608,30/11/82,Michael Jackson,thriller,The Lady In My Life,caress,positive
+610,30/11/82,Michael Jackson,thriller,The Lady In My Life,ecstasy,anticipation
+610,30/11/82,Michael Jackson,thriller,The Lady In My Life,ecstasy,joy
+610,30/11/82,Michael Jackson,thriller,The Lady In My Life,ecstasy,positive
+614,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+614,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+616,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+616,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+617,30/11/82,Michael Jackson,thriller,The Lady In My Life,gray,disgust
+617,30/11/82,Michael Jackson,thriller,The Lady In My Life,gray,sadness
+618,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+618,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+628,30/11/82,Michael Jackson,thriller,The Lady In My Life,fill,trust
+628,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+628,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+629,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+629,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+631,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+631,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+632,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,joy
+632,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,positive
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,rock,positive
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,anticipation
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,joy
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,positive
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,surprise
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,trust
+635,30/11/82,Michael Jackson,thriller,The Lady In My Life,caress,positive
+637,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+637,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+641,30/11/82,Michael Jackson,thriller,The Lady In My Life,fill,trust
+641,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+641,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+642,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+642,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+642,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+642,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+644,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+644,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+645,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,joy
+645,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,positive
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,rock,positive
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,anticipation
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,joy
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,positive
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,surprise
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,trust
+649,30/11/82,Michael Jackson,thriller,The Lady In My Life,caress,positive
+650,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+650,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+650,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+650,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+653,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+653,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+661,30/11/82,Michael Jackson,thriller,The Lady In My Life,fill,trust
+661,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+661,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+662,30/11/82,Michael Jackson,thriller,The Lady In My Life,fill,trust
+662,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+662,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+665,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,joy
+665,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,positive
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,rock,positive
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,anticipation
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,joy
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,positive
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,surprise
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,sweet,trust
+669,30/11/82,Michael Jackson,thriller,The Lady In My Life,caress,positive
+674,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+674,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+677,30/11/82,Michael Jackson,thriller,The Lady In My Life,fill,trust
+677,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,joy
+677,30/11/82,Michael Jackson,thriller,The Lady In My Life,love,positive
+680,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,joy
+680,30/11/82,Michael Jackson,thriller,The Lady In My Life,tenderness,positive
+681,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,joy
+681,30/11/82,Michael Jackson,thriller,The Lady In My Life,baby,positive
+685,30/11/82,Michael Jackson,thriller,Carousel,laughing,joy
+685,30/11/82,Michael Jackson,thriller,Carousel,laughing,positive
+692,30/11/82,Michael Jackson,thriller,Carousel,lost,negative
+692,30/11/82,Michael Jackson,thriller,Carousel,lost,sadness
+696,30/11/82,Michael Jackson,thriller,Carousel,lost,negative
+696,30/11/82,Michael Jackson,thriller,Carousel,lost,sadness
+700,30/11/82,Michael Jackson,thriller,Carousel,clown,anticipation
+700,30/11/82,Michael Jackson,thriller,Carousel,clown,joy
+700,30/11/82,Michael Jackson,thriller,Carousel,clown,positive
+700,30/11/82,Michael Jackson,thriller,Carousel,clown,surprise
+710,30/11/82,Michael Jackson,thriller,Carousel,lost,negative
+710,30/11/82,Michael Jackson,thriller,Carousel,lost,sadness
+714,30/11/82,Michael Jackson,thriller,Carousel,lost,negative
+714,30/11/82,Michael Jackson,thriller,Carousel,lost,sadness
+719,30/11/82,Michael Jackson,thriller,Carousel,love,joy
+719,30/11/82,Michael Jackson,thriller,Carousel,love,positive
+724,30/11/82,Michael Jackson,thriller,Carousel,lost,negative
+724,30/11/82,Michael Jackson,thriller,Carousel,lost,sadness
+728,30/11/82,Michael Jackson,thriller,Carousel,lost,negative
+728,30/11/82,Michael Jackson,thriller,Carousel,lost,sadness
+736,01/06/72,Eagles,The Eagles,Take It Easy,stone,anger
+736,01/06/72,Eagles,The Eagles,Take It Easy,stone,negative
+737,01/06/72,Eagles,The Eagles,Take It Easy,friend,joy
+737,01/06/72,Eagles,The Eagles,Take It Easy,friend,positive
+737,01/06/72,Eagles,The Eagles,Take It Easy,friend,trust
+739,01/06/72,Eagles,The Eagles,Take It Easy,crazy,anger
+739,01/06/72,Eagles,The Eagles,Take It Easy,crazy,fear
+739,01/06/72,Eagles,The Eagles,Take It Easy,crazy,negative
+739,01/06/72,Eagles,The Eagles,Take It Easy,crazy,sadness
+744,01/06/72,Eagles,The Eagles,Take It Easy,standing,positive
+747,01/06/72,Eagles,The Eagles,Take It Easy,lord,disgust
+747,01/06/72,Eagles,The Eagles,Take It Easy,lord,negative
+747,01/06/72,Eagles,The Eagles,Take It Easy,lord,positive
+747,01/06/72,Eagles,The Eagles,Take It Easy,lord,trust
+750,01/06/72,Eagles,The Eagles,Take It Easy,baby,joy
+750,01/06/72,Eagles,The Eagles,Take It Easy,baby,positive
+753,01/06/72,Eagles,The Eagles,Take It Easy,sweet,anticipation
+753,01/06/72,Eagles,The Eagles,Take It Easy,sweet,joy
+753,01/06/72,Eagles,The Eagles,Take It Easy,sweet,positive
+753,01/06/72,Eagles,The Eagles,Take It Easy,sweet,surprise
+753,01/06/72,Eagles,The Eagles,Take It Easy,sweet,trust
+753,01/06/72,Eagles,The Eagles,Take It Easy,love,joy
+753,01/06/72,Eagles,The Eagles,Take It Easy,love,positive
+754,01/06/72,Eagles,The Eagles,Take It Easy,save,joy
+754,01/06/72,Eagles,The Eagles,Take It Easy,save,positive
+754,01/06/72,Eagles,The Eagles,Take It Easy,save,trust
+755,01/06/72,Eagles,The Eagles,Take It Easy,lose,anger
+755,01/06/72,Eagles,The Eagles,Take It Easy,lose,disgust
+755,01/06/72,Eagles,The Eagles,Take It Easy,lose,fear
+755,01/06/72,Eagles,The Eagles,Take It Easy,lose,negative
+755,01/06/72,Eagles,The Eagles,Take It Easy,lose,sadness
+755,01/06/72,Eagles,The Eagles,Take It Easy,lose,surprise
+762,01/06/72,Eagles,The Eagles,Take It Easy,lover,anticipation
+762,01/06/72,Eagles,The Eagles,Take It Easy,lover,joy
+762,01/06/72,Eagles,The Eagles,Take It Easy,lover,positive
+762,01/06/72,Eagles,The Eagles,Take It Easy,lover,trust
+763,01/06/72,Eagles,The Eagles,Take It Easy,cover,trust
+766,01/06/72,Eagles,The Eagles,Take It Easy,crazy,anger
+766,01/06/72,Eagles,The Eagles,Take It Easy,crazy,fear
+766,01/06/72,Eagles,The Eagles,Take It Easy,crazy,negative
+766,01/06/72,Eagles,The Eagles,Take It Easy,crazy,sadness
+767,01/06/72,Eagles,The Eagles,Take It Easy,baby,joy
+767,01/06/72,Eagles,The Eagles,Take It Easy,baby,positive
+770,01/06/72,Eagles,The Eagles,Take It Easy,sweet,anticipation
+770,01/06/72,Eagles,The Eagles,Take It Easy,sweet,joy
+770,01/06/72,Eagles,The Eagles,Take It Easy,sweet,positive
+770,01/06/72,Eagles,The Eagles,Take It Easy,sweet,surprise
+770,01/06/72,Eagles,The Eagles,Take It Easy,sweet,trust
+770,01/06/72,Eagles,The Eagles,Take It Easy,love,joy
+770,01/06/72,Eagles,The Eagles,Take It Easy,love,positive
+771,01/06/72,Eagles,The Eagles,Take It Easy,save,joy
+771,01/06/72,Eagles,The Eagles,Take It Easy,save,positive
+771,01/06/72,Eagles,The Eagles,Take It Easy,save,trust
+777,01/06/72,Eagles,The Eagles,Witchy Woman,spirit,positive
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,anger
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,fear
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,joy
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,negative
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,positive
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,sadness
+777,01/06/72,Eagles,The Eagles,Witchy Woman,endless,trust
+784,01/06/72,Eagles,The Eagles,Witchy Woman,crazy,anger
+784,01/06/72,Eagles,The Eagles,Witchy Woman,crazy,fear
+784,01/06/72,Eagles,The Eagles,Witchy Woman,crazy,negative
+784,01/06/72,Eagles,The Eagles,Witchy Woman,crazy,sadness
+784,01/06/72,Eagles,The Eagles,Witchy Woman,laughter,anticipation
+784,01/06/72,Eagles,The Eagles,Witchy Woman,laughter,joy
+784,01/06/72,Eagles,The Eagles,Witchy Woman,laughter,positive
+784,01/06/72,Eagles,The Eagles,Witchy Woman,laughter,surprise
+785,01/06/72,Eagles,The Eagles,Witchy Woman,madness,anger
+785,01/06/72,Eagles,The Eagles,Witchy Woman,madness,fear
+785,01/06/72,Eagles,The Eagles,Witchy Woman,madness,negative
+790,01/06/72,Eagles,The Eagles,Witchy Woman,lover,anticipation
+790,01/06/72,Eagles,The Eagles,Witchy Woman,lover,joy
+790,01/06/72,Eagles,The Eagles,Witchy Woman,lover,positive
+790,01/06/72,Eagles,The Eagles,Witchy Woman,lover,trust
+791,01/06/72,Eagles,The Eagles,Witchy Woman,brother,positive
+791,01/06/72,Eagles,The Eagles,Witchy Woman,brother,trust
+795,01/06/72,Eagles,The Eagles,Witchy Woman,rock,positive
+801,01/06/72,Eagles,The Eagles,Chug All Night,scare,anger
+801,01/06/72,Eagles,The Eagles,Chug All Night,scare,anticipation
+801,01/06/72,Eagles,The Eagles,Chug All Night,scare,fear
+801,01/06/72,Eagles,The Eagles,Chug All Night,scare,negative
+801,01/06/72,Eagles,The Eagles,Chug All Night,scare,surprise
+805,01/06/72,Eagles,The Eagles,Chug All Night,baby,joy
+805,01/06/72,Eagles,The Eagles,Chug All Night,baby,positive
+806,01/06/72,Eagles,The Eagles,Chug All Night,sense,positive
+807,01/06/72,Eagles,The Eagles,Chug All Night,finally,anticipation
+807,01/06/72,Eagles,The Eagles,Chug All Night,finally,disgust
+807,01/06/72,Eagles,The Eagles,Chug All Night,finally,joy
+807,01/06/72,Eagles,The Eagles,Chug All Night,finally,positive
+807,01/06/72,Eagles,The Eagles,Chug All Night,finally,surprise
+807,01/06/72,Eagles,The Eagles,Chug All Night,finally,trust
+807,01/06/72,Eagles,The Eagles,Chug All Night,convinced,trust
+809,01/06/72,Eagles,The Eagles,Chug All Night,hug,joy
+809,01/06/72,Eagles,The Eagles,Chug All Night,hug,positive
+809,01/06/72,Eagles,The Eagles,Chug All Night,hug,trust
+813,01/06/72,Eagles,The Eagles,Chug All Night,die,fear
+813,01/06/72,Eagles,The Eagles,Chug All Night,die,negative
+813,01/06/72,Eagles,The Eagles,Chug All Night,die,sadness
+814,01/06/72,Eagles,The Eagles,Chug All Night,scream,anger
+814,01/06/72,Eagles,The Eagles,Chug All Night,scream,disgust
+814,01/06/72,Eagles,The Eagles,Chug All Night,scream,fear
+814,01/06/72,Eagles,The Eagles,Chug All Night,scream,negative
+814,01/06/72,Eagles,The Eagles,Chug All Night,scream,surprise
+815,01/06/72,Eagles,The Eagles,Chug All Night,alive,anticipation
+815,01/06/72,Eagles,The Eagles,Chug All Night,alive,joy
+815,01/06/72,Eagles,The Eagles,Chug All Night,alive,positive
+815,01/06/72,Eagles,The Eagles,Chug All Night,alive,trust
+816,01/06/72,Eagles,The Eagles,Chug All Night,alive,anticipation
+816,01/06/72,Eagles,The Eagles,Chug All Night,alive,joy
+816,01/06/72,Eagles,The Eagles,Chug All Night,alive,positive
+816,01/06/72,Eagles,The Eagles,Chug All Night,alive,trust
+817,01/06/72,Eagles,The Eagles,Chug All Night,baby,joy
+817,01/06/72,Eagles,The Eagles,Chug All Night,baby,positive
+819,01/06/72,Eagles,The Eagles,Chug All Night,blind,negative
+819,01/06/72,Eagles,The Eagles,Chug All Night,black,negative
+819,01/06/72,Eagles,The Eagles,Chug All Night,black,sadness
+819,01/06/72,Eagles,The Eagles,Chug All Night,blue,sadness
+822,01/06/72,Eagles,The Eagles,Chug All Night,hug,joy
+822,01/06/72,Eagles,The Eagles,Chug All Night,hug,positive
+822,01/06/72,Eagles,The Eagles,Chug All Night,hug,trust
+828,01/06/72,Eagles,The Eagles,Chug All Night,devil,anger
+828,01/06/72,Eagles,The Eagles,Chug All Night,devil,anticipation
+828,01/06/72,Eagles,The Eagles,Chug All Night,devil,disgust
+828,01/06/72,Eagles,The Eagles,Chug All Night,devil,fear
+828,01/06/72,Eagles,The Eagles,Chug All Night,devil,negative
+828,01/06/72,Eagles,The Eagles,Chug All Night,devil,sadness
+828,01/06/72,Eagles,The Eagles,Chug All Night,voodoo,negative
+829,01/06/72,Eagles,The Eagles,Chug All Night,long,anticipation
+829,01/06/72,Eagles,The Eagles,Chug All Night,dark,sadness
+829,01/06/72,Eagles,The Eagles,Chug All Night,real,positive
+829,01/06/72,Eagles,The Eagles,Chug All Night,real,trust
+838,01/06/72,Eagles,The Eagles,Chug All Night,baby,joy
+838,01/06/72,Eagles,The Eagles,Chug All Night,baby,positive
+841,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,show,trust
+844,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,anticipation
+844,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,joy
+844,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,positive
+844,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,surprise
+844,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,trust
+845,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,time,anticipation
+847,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,save,joy
+847,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,save,positive
+847,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,save,trust
+848,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,weeping,sadness
+848,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,smile,joy
+848,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,smile,positive
+848,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,smile,surprise
+848,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,smile,trust
+849,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,coming,anticipation
+849,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,dawn,anticipation
+849,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,dawn,joy
+849,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,dawn,positive
+849,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,dawn,surprise
+849,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,dawn,trust
+850,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,true,joy
+850,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,true,positive
+850,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,true,trust
+852,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,love,joy
+852,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,love,positive
+853,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,anticipation
+853,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,joy
+853,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,positive
+853,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,surprise
+853,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sun,trust
+854,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sing,anticipation
+854,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sing,joy
+854,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sing,positive
+854,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sing,sadness
+854,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,sing,trust
+855,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,love,joy
+855,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,love,positive
+857,01/06/72,Eagles,The Eagles,Most Of Us Are Sad,show,trust
+860,01/06/72,Eagles,The Eagles,Nightingale,hanging,anger
+860,01/06/72,Eagles,The Eagles,Nightingale,hanging,disgust
+860,01/06/72,Eagles,The Eagles,Nightingale,hanging,fear
+860,01/06/72,Eagles,The Eagles,Nightingale,hanging,negative
+860,01/06/72,Eagles,The Eagles,Nightingale,hanging,sadness
+860,01/06/72,Eagles,The Eagles,Nightingale,peace,anticipation
+860,01/06/72,Eagles,The Eagles,Nightingale,peace,joy
+860,01/06/72,Eagles,The Eagles,Nightingale,peace,positive
+860,01/06/72,Eagles,The Eagles,Nightingale,peace,trust
+862,01/06/72,Eagles,The Eagles,Nightingale,hanging,anger
+862,01/06/72,Eagles,The Eagles,Nightingale,hanging,disgust
+862,01/06/72,Eagles,The Eagles,Nightingale,hanging,fear
+862,01/06/72,Eagles,The Eagles,Nightingale,hanging,negative
+862,01/06/72,Eagles,The Eagles,Nightingale,hanging,sadness
+862,01/06/72,Eagles,The Eagles,Nightingale,good,anticipation
+862,01/06/72,Eagles,The Eagles,Nightingale,good,joy
+862,01/06/72,Eagles,The Eagles,Nightingale,good,positive
+862,01/06/72,Eagles,The Eagles,Nightingale,good,surprise
+862,01/06/72,Eagles,The Eagles,Nightingale,good,trust
+862,01/06/72,Eagles,The Eagles,Nightingale,baby,joy
+862,01/06/72,Eagles,The Eagles,Nightingale,baby,positive
+864,01/06/72,Eagles,The Eagles,Nightingale,joy,joy
+864,01/06/72,Eagles,The Eagles,Nightingale,joy,positive
+869,01/06/72,Eagles,The Eagles,Nightingale,love,joy
+869,01/06/72,Eagles,The Eagles,Nightingale,love,positive
+872,01/06/72,Eagles,The Eagles,Nightingale,murder,anger
+872,01/06/72,Eagles,The Eagles,Nightingale,murder,disgust
+872,01/06/72,Eagles,The Eagles,Nightingale,murder,fear
+872,01/06/72,Eagles,The Eagles,Nightingale,murder,negative
+872,01/06/72,Eagles,The Eagles,Nightingale,murder,sadness
+872,01/06/72,Eagles,The Eagles,Nightingale,murder,surprise
+880,01/06/72,Eagles,The Eagles,Nightingale,time,anticipation
+883,01/06/72,Eagles,The Eagles,Nightingale,lose,anger
+883,01/06/72,Eagles,The Eagles,Nightingale,lose,disgust
+883,01/06/72,Eagles,The Eagles,Nightingale,lose,fear
+883,01/06/72,Eagles,The Eagles,Nightingale,lose,negative
+883,01/06/72,Eagles,The Eagles,Nightingale,lose,sadness
+883,01/06/72,Eagles,The Eagles,Nightingale,lose,surprise
+884,01/06/72,Eagles,The Eagles,Nightingale,baby,joy
+884,01/06/72,Eagles,The Eagles,Nightingale,baby,positive
+886,01/06/72,Eagles,The Eagles,Nightingale,coming,anticipation
+886,01/06/72,Eagles,The Eagles,Nightingale,devastation,anger
+886,01/06/72,Eagles,The Eagles,Nightingale,devastation,fear
+886,01/06/72,Eagles,The Eagles,Nightingale,devastation,negative
+886,01/06/72,Eagles,The Eagles,Nightingale,devastation,sadness
+886,01/06/72,Eagles,The Eagles,Nightingale,devastation,surprise
+887,01/06/72,Eagles,The Eagles,Nightingale,lord,disgust
+887,01/06/72,Eagles,The Eagles,Nightingale,lord,negative
+887,01/06/72,Eagles,The Eagles,Nightingale,lord,positive
+887,01/06/72,Eagles,The Eagles,Nightingale,lord,trust
+888,01/06/72,Eagles,The Eagles,Nightingale,love,joy
+888,01/06/72,Eagles,The Eagles,Nightingale,love,positive
+890,01/06/72,Eagles,The Eagles,Nightingale,hanging,anger
+890,01/06/72,Eagles,The Eagles,Nightingale,hanging,disgust
+890,01/06/72,Eagles,The Eagles,Nightingale,hanging,fear
+890,01/06/72,Eagles,The Eagles,Nightingale,hanging,negative
+890,01/06/72,Eagles,The Eagles,Nightingale,hanging,sadness
+890,01/06/72,Eagles,The Eagles,Nightingale,peace,anticipation
+890,01/06/72,Eagles,The Eagles,Nightingale,peace,joy
+890,01/06/72,Eagles,The Eagles,Nightingale,peace,positive
+890,01/06/72,Eagles,The Eagles,Nightingale,peace,trust
+891,01/06/72,Eagles,The Eagles,Nightingale,lie,anger
+891,01/06/72,Eagles,The Eagles,Nightingale,lie,disgust
+891,01/06/72,Eagles,The Eagles,Nightingale,lie,negative
+891,01/06/72,Eagles,The Eagles,Nightingale,lie,sadness
+892,01/06/72,Eagles,The Eagles,Nightingale,hanging,anger
+892,01/06/72,Eagles,The Eagles,Nightingale,hanging,disgust
+892,01/06/72,Eagles,The Eagles,Nightingale,hanging,fear
+892,01/06/72,Eagles,The Eagles,Nightingale,hanging,negative
+892,01/06/72,Eagles,The Eagles,Nightingale,hanging,sadness
+892,01/06/72,Eagles,The Eagles,Nightingale,special,joy
+892,01/06/72,Eagles,The Eagles,Nightingale,special,positive
+892,01/06/72,Eagles,The Eagles,Nightingale,friend,joy
+892,01/06/72,Eagles,The Eagles,Nightingale,friend,positive
+892,01/06/72,Eagles,The Eagles,Nightingale,friend,trust
+895,01/06/72,Eagles,The Eagles,Nightingale,inspiration,anticipation
+895,01/06/72,Eagles,The Eagles,Nightingale,inspiration,joy
+895,01/06/72,Eagles,The Eagles,Nightingale,inspiration,positive
+896,01/06/72,Eagles,The Eagles,Nightingale,lead,positive
+901,01/06/72,Eagles,The Eagles,Nightingale,wait,anticipation
+901,01/06/72,Eagles,The Eagles,Nightingale,wait,negative
+902,01/06/72,Eagles,The Eagles,Nightingale,baby,joy
+902,01/06/72,Eagles,The Eagles,Nightingale,baby,positive
+904,01/06/72,Eagles,The Eagles,Nightingale,coming,anticipation
+904,01/06/72,Eagles,The Eagles,Nightingale,devastation,anger
+904,01/06/72,Eagles,The Eagles,Nightingale,devastation,fear
+904,01/06/72,Eagles,The Eagles,Nightingale,devastation,negative
+904,01/06/72,Eagles,The Eagles,Nightingale,devastation,sadness
+904,01/06/72,Eagles,The Eagles,Nightingale,devastation,surprise
+907,01/06/72,Eagles,The Eagles,Nightingale,prevail,anticipation
+907,01/06/72,Eagles,The Eagles,Nightingale,prevail,joy
+907,01/06/72,Eagles,The Eagles,Nightingale,prevail,positive
+908,01/06/72,Eagles,The Eagles,Nightingale,hanging,anger
+908,01/06/72,Eagles,The Eagles,Nightingale,hanging,disgust
+908,01/06/72,Eagles,The Eagles,Nightingale,hanging,fear
+908,01/06/72,Eagles,The Eagles,Nightingale,hanging,negative
+908,01/06/72,Eagles,The Eagles,Nightingale,hanging,sadness
+908,01/06/72,Eagles,The Eagles,Nightingale,peace,anticipation
+908,01/06/72,Eagles,The Eagles,Nightingale,peace,joy
+908,01/06/72,Eagles,The Eagles,Nightingale,peace,positive
+908,01/06/72,Eagles,The Eagles,Nightingale,peace,trust
+910,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,lost,negative
+910,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,lost,sadness
+911,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,wrong,negative
+911,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,time,anticipation
+912,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,facts,positive
+912,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,facts,trust
+913,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,completely,positive
+913,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,blind,negative
+919,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,baby,joy
+919,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,baby,positive
+919,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,long,anticipation
+920,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,reason,positive
+921,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,blame,anger
+921,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,blame,disgust
+921,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,blame,negative
+922,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,time,anticipation
+923,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,hanging,anger
+923,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,hanging,disgust
+923,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,hanging,fear
+923,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,hanging,negative
+923,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,hanging,sadness
+929,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,time,anticipation
+929,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,leave,negative
+929,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,leave,sadness
+929,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,leave,surprise
+930,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,smoker,negative
+931,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,joker,joy
+931,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,joker,positive
+931,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,joker,surprise
+931,01/06/72,Eagles,The Eagles,Train Leaves Here This Morning,lead,positive
+937,01/06/72,Eagles,The Eagles,Take The Devil,devil,anger
+937,01/06/72,Eagles,The Eagles,Take The Devil,devil,anticipation
+937,01/06/72,Eagles,The Eagles,Take The Devil,devil,disgust
+937,01/06/72,Eagles,The Eagles,Take The Devil,devil,fear
+937,01/06/72,Eagles,The Eagles,Take The Devil,devil,negative
+937,01/06/72,Eagles,The Eagles,Take The Devil,devil,sadness
+940,01/06/72,Eagles,The Eagles,Take The Devil,cold,negative
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,anger
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,anticipation
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,disgust
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,fear
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,joy
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,negative
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,positive
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,sadness
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,surprise
+941,01/06/72,Eagles,The Eagles,Take The Devil,feeling,trust
+944,01/06/72,Eagles,The Eagles,Take The Devil,god,anticipation
+944,01/06/72,Eagles,The Eagles,Take The Devil,god,fear
+944,01/06/72,Eagles,The Eagles,Take The Devil,god,joy
+944,01/06/72,Eagles,The Eagles,Take The Devil,god,positive
+944,01/06/72,Eagles,The Eagles,Take The Devil,god,trust
+944,01/06/72,Eagles,The Eagles,Take The Devil,lead,positive
+945,01/06/72,Eagles,The Eagles,Take The Devil,show,trust
+948,01/06/72,Eagles,The Eagles,Take The Devil,blind,negative
+949,01/06/72,Eagles,The Eagles,Take The Devil,devil,anger
+949,01/06/72,Eagles,The Eagles,Take The Devil,devil,anticipation
+949,01/06/72,Eagles,The Eagles,Take The Devil,devil,disgust
+949,01/06/72,Eagles,The Eagles,Take The Devil,devil,fear
+949,01/06/72,Eagles,The Eagles,Take The Devil,devil,negative
+949,01/06/72,Eagles,The Eagles,Take The Devil,devil,sadness
+954,01/06/72,Eagles,The Eagles,Take The Devil,love,joy
+954,01/06/72,Eagles,The Eagles,Take The Devil,love,positive
+956,01/06/72,Eagles,The Eagles,Take The Devil,god,anticipation
+956,01/06/72,Eagles,The Eagles,Take The Devil,god,fear
+956,01/06/72,Eagles,The Eagles,Take The Devil,god,joy
+956,01/06/72,Eagles,The Eagles,Take The Devil,god,positive
+956,01/06/72,Eagles,The Eagles,Take The Devil,god,trust
+956,01/06/72,Eagles,The Eagles,Take The Devil,lead,positive
+957,01/06/72,Eagles,The Eagles,Take The Devil,show,trust
+959,01/06/72,Eagles,The Eagles,Take The Devil,devil,anger
+959,01/06/72,Eagles,The Eagles,Take The Devil,devil,anticipation
+959,01/06/72,Eagles,The Eagles,Take The Devil,devil,disgust
+959,01/06/72,Eagles,The Eagles,Take The Devil,devil,fear
+959,01/06/72,Eagles,The Eagles,Take The Devil,devil,negative
+959,01/06/72,Eagles,The Eagles,Take The Devil,devil,sadness
+960,01/06/72,Eagles,The Eagles,Take The Devil,devil,anger
+960,01/06/72,Eagles,The Eagles,Take The Devil,devil,anticipation
+960,01/06/72,Eagles,The Eagles,Take The Devil,devil,disgust
+960,01/06/72,Eagles,The Eagles,Take The Devil,devil,fear
+960,01/06/72,Eagles,The Eagles,Take The Devil,devil,negative
+960,01/06/72,Eagles,The Eagles,Take The Devil,devil,sadness
+963,01/06/72,Eagles,The Eagles,Earlybird,break,surprise
+964,01/06/72,Eagles,The Eagles,Earlybird,working,positive
+965,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+966,01/06/72,Eagles,The Eagles,Earlybird,denying,anticipation
+966,01/06/72,Eagles,The Eagles,Earlybird,denying,negative
+967,01/06/72,Eagles,The Eagles,Earlybird,time,anticipation
+967,01/06/72,Eagles,The Eagles,Earlybird,flying,fear
+967,01/06/72,Eagles,The Eagles,Earlybird,flying,positive
+970,01/06/72,Eagles,The Eagles,Earlybird,eagle,trust
+973,01/06/72,Eagles,The Eagles,Earlybird,tough,negative
+973,01/06/72,Eagles,The Eagles,Earlybird,tough,sadness
+974,01/06/72,Eagles,The Eagles,Earlybird,time,anticipation
+977,01/06/72,Eagles,The Eagles,Earlybird,wrong,negative
+981,01/06/72,Eagles,The Eagles,Earlybird,sun,anticipation
+981,01/06/72,Eagles,The Eagles,Earlybird,sun,joy
+981,01/06/72,Eagles,The Eagles,Earlybird,sun,positive
+981,01/06/72,Eagles,The Eagles,Earlybird,sun,surprise
+981,01/06/72,Eagles,The Eagles,Earlybird,sun,trust
+982,01/06/72,Eagles,The Eagles,Earlybird,reading,positive
+983,01/06/72,Eagles,The Eagles,Earlybird,crazy,anger
+983,01/06/72,Eagles,The Eagles,Earlybird,crazy,fear
+983,01/06/72,Eagles,The Eagles,Earlybird,crazy,negative
+983,01/06/72,Eagles,The Eagles,Earlybird,crazy,sadness
+983,01/06/72,Eagles,The Eagles,Earlybird,music,joy
+983,01/06/72,Eagles,The Eagles,Earlybird,music,positive
+983,01/06/72,Eagles,The Eagles,Earlybird,music,sadness
+983,01/06/72,Eagles,The Eagles,Earlybird,fun,anticipation
+983,01/06/72,Eagles,The Eagles,Earlybird,fun,joy
+983,01/06/72,Eagles,The Eagles,Earlybird,fun,positive
+985,01/06/72,Eagles,The Eagles,Earlybird,ease,positive
+986,01/06/72,Eagles,The Eagles,Earlybird,harm,fear
+986,01/06/72,Eagles,The Eagles,Earlybird,harm,negative
+989,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+991,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+993,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+995,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+997,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+999,01/06/72,Eagles,The Eagles,Earlybird,fade,negative
+1002,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,desert,anger
+1002,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,desert,disgust
+1002,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,desert,fear
+1002,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,desert,negative
+1002,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,desert,sadness
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,anticipation
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,joy
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,positive
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,surprise
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,trust
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anger
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anticipation
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,disgust
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,fear
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,joy
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,negative
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,positive
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,sadness
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,surprise
+1004,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,trust
+1006,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,standing,positive
+1006,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,ground,trust
+1007,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,found,joy
+1007,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,found,positive
+1007,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,found,trust
+1007,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,long,anticipation
+1007,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,time,anticipation
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,anticipation
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,joy
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,positive
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,surprise
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,trust
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anger
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anticipation
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,disgust
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,fear
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,joy
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,negative
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,positive
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,sadness
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,surprise
+1011,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,trust
+1013,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,standing,positive
+1013,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,ground,trust
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anger
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anticipation
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,disgust
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,fear
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,joy
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,negative
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,positive
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,sadness
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,surprise
+1014,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,trust
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,lover,anticipation
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,lover,joy
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,lover,positive
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,lover,trust
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,friend,joy
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,friend,positive
+1015,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,friend,trust
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,anticipation
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,joy
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,positive
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,surprise
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,peaceful,trust
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anger
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,anticipation
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,disgust
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,fear
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,joy
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,negative
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,positive
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,sadness
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,surprise
+1018,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,feeling,trust
+1020,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,standing,positive
+1021,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,standing,positive
+1022,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,standing,positive
+1022,01/06/72,Eagles,The Eagles,Peaceful Easy Feeling,ground,trust
+1024,01/06/72,Eagles,The Eagles,Tryin',music,joy
+1024,01/06/72,Eagles,The Eagles,Tryin',music,positive
+1024,01/06/72,Eagles,The Eagles,Tryin',music,sadness
+1025,01/06/72,Eagles,The Eagles,Tryin',destination,anticipation
+1025,01/06/72,Eagles,The Eagles,Tryin',destination,fear
+1025,01/06/72,Eagles,The Eagles,Tryin',destination,joy
+1025,01/06/72,Eagles,The Eagles,Tryin',destination,positive
+1025,01/06/72,Eagles,The Eagles,Tryin',destination,sadness
+1025,01/06/72,Eagles,The Eagles,Tryin',destination,surprise
+1027,01/06/72,Eagles,The Eagles,Tryin',long,anticipation
+1027,01/06/72,Eagles,The Eagles,Tryin',ahead,positive
+1033,01/06/72,Eagles,The Eagles,Tryin',time,anticipation
+1043,01/06/72,Eagles,The Eagles,Tryin',lonely,anger
+1043,01/06/72,Eagles,The Eagles,Tryin',lonely,disgust
+1043,01/06/72,Eagles,The Eagles,Tryin',lonely,fear
+1043,01/06/72,Eagles,The Eagles,Tryin',lonely,negative
+1043,01/06/72,Eagles,The Eagles,Tryin',lonely,sadness
+1045,01/06/72,Eagles,The Eagles,Tryin',mistake,negative
+1045,01/06/72,Eagles,The Eagles,Tryin',mistake,sadness

@@ -1,0 +1,135 @@
+
+```{r setup, include=FALSE}
+#Setup the environment
+
+rm(list=ls())
+library(SnowballC)
+library(tm)
+library(ggplot2)
+library(RColorBrewer)
+library(wordcloud)
+library(topicmodels)
+library(data.table)
+library(stringi)
+library(syuzhet)
+#library(qdap)
+library(dplyr)
+library(plyr)
+library(grid)
+library(gridExtra)
+```
+
+#####Read Twitter Data
+
+```{r}
+# Set directory and read data
+tweets.df <- read.csv("mjemi.csv")
+tweets.df$text <- as.character(tweets.df$text)
+str(tweets.df)
+
+
+#####Sentiment Analysis: understanding emotional valence in tweets using syuzhet
+
+tweets.df$text <- iconv(enc2utf8(tweets.df$text),sub="byte")
+mysentiment<-get_nrc_sentiment((tweets.df$text))
+
+
+# Get the sentiment score for each emotion
+mysentiment.positive =sum(mysentiment$positive)
+mysentiment.anger =sum(mysentiment$anger)
+mysentiment.anticipation =sum(mysentiment$anticipation)
+mysentiment.disgust =sum(mysentiment$disgust)
+mysentiment.fear =sum(mysentiment$fear)
+mysentiment.joy =sum(mysentiment$joy)
+mysentiment.sadness =sum(mysentiment$sadness)
+mysentiment.surprise =sum(mysentiment$surprise)
+mysentiment.trust =sum(mysentiment$trust)
+mysentiment.negative =sum(mysentiment$negative)
+
+# Create the bar chart
+yAxis <- c(mysentiment.positive,
+           + mysentiment.anger,
+           + mysentiment.anticipation,
+           + mysentiment.disgust,
+           + mysentiment.fear,
+           + mysentiment.joy,
+           + mysentiment.sadness,
+           + mysentiment.surprise,
+           + mysentiment.trust,
+           + mysentiment.negative)
+
+xAxis <- c("Positive","Anger","Anticipation","Disgust","Fear","Joy","Sadness",
+           "Surprise","Trust","Negative")
+colors <- c("green","red","blue","orange","red","green","orange","blue","green","red")
+yRange <- range(0,yAxis)
+barplot(yAxis, names.arg = xAxis, 
+        xlab = "Emotional valence", ylab = "Score", main = "Album sentiment", 
+        sub = "MJ", col = colors, border = "black", xpd = F, ylim = yRange,
+        axisnames = T, cex.axis = 0.8, cex.sub = 0.8, col.sub = "blue")
+
+library(tidytext)
+library(syuzhet)
+
+words <- tweets.df %>% unnest_tokens(word,text)
+sentiment <- words %>% inner_join(get_sentiments("laughron"),by="word")
+sentiment %>% dplyr::count(word,sentiment,sort = TRUE) %>% group_by (sentiment) %>% top_n(n=10) %>% ungroup() %>% ggplot(aes(x=reorder(word,n),y=n,fill=sentiment)) + geom_col(show.legend = FALSE) + facet_wrap(~sentiment,scales="free") +  coord_flip()
+
+
+mysentiment.anger
+mysentiment.anticipation
+mysentiment.disgust
+mysentiment.fear
+mysentiment.joy
+mysentiment.negative
+mysentiment.positive
+mysentiment.sadness
+mysentiment.surprise
+mysentiment.trust
+
+
+```
+
+
+library(data.table)
+fwrite(sentiment, "mjemi output.csv")
+
+
+
+fwrite(prince_tidy, "distinct.csv")
+#install.packages("devtools")
+library(devtools)
+#install_github("ndphillips/yarrr")
+library(yarrr)
+
+prince_tidy <- tweets.df %>%
+  unnest_tokens(word, text) %>% #Break the lyrics into individual words
+  filter(!nchar(word) < 3) %>% #Words like "ah" or "oo" used in music
+  anti_join(stop_words) #Data provided by the tidytext package
+
+glimpse(prince_tidy)
+attach(prince_tidy)
+prince_tidy$song <- as.character(prince_tidy$song)
+
+word_summary <- prince_tidy %>%
+  group_by(Year,song) %>%
+  mutate(word_count = n_distinct(word)) %>%
+  distinct() %>% #To obtain one record per song
+  ungroup()
+
+word_count = n_distinct(word)
+
+pirateplot(formula =  word , #Formula
+   data = word_summary, #Data frame
+   xlab = NULL, ylab = "Song Distinct Word Count", #Axis labels
+   main = "Lexical Diversity Per Year", #Plot title
+   pal = "google", #Color scheme
+   point.o = .2, #Points
+   avg.line.o = 1, #Turn on the Average/Mean line
+   theme = 0, #Theme
+   point.pch = 16, #Point `pch` type
+   point.cex = 1.5, #Point size
+   jitter.val = .1, #Turn on jitter to see the songs better
+   cex.lab = .9, cex.names = .7) #Axis label size
+
+?pirateplot
+
