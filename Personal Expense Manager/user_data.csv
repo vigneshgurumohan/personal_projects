@@ -1,0 +1,804 @@
+Timestamp,Transaction Date,Type of Transaction,Transaction Amount,Transaction Description,Transaction Towards,Mode of Transaction,Added By
+2024-12-01T06:05:49.348Z,12-01-2024,Expense,2343.0,sdaf,Utility,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,27-09-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-08-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-07-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-06-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-05-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-04-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-03-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,22-03-2025,Expense,185.9,F1,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,17-03-2025,Expense,975.0,Visa Charges,Family,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-03-2025,Income,3776.2,Tax Refund,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,27-02-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-01-2025,Expense,32.7,JB Monitor and NB Shoe,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-01-2025,Expense,47.5,My Protein Powder,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-01-2025,Expense,18.0,Biology Body Lotion,Online Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,27-12-2024,Expense,14.7,JB Monitor,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,26-12-2024,Expense,161.7,Boxing Day,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,20-12-2024,Expense,47.5,My Protein Powder,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-12-2024,Expense,18.0,Biology Body Lotion,Online Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-12-2024,Expense,33.0,Saraku,Others,Online,Vignesh
+2024-12-01T04:06:54.110Z,01-12-2024,Income,6696.3,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-12-2024,Expense,55.2,Saddle Board,Entertainment,Online,Vignesh
+2024-12-01T04:06:54.110Z,29-11-2024,Income,111.1,Interest Income,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-11-2024,Expense,10.0,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-11-2024,Expense,40.0,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-11-2024,Expense,20.5,Lunch,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-11-2024,Expense,78.4,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,22-11-2024,Expense,24.4,Dominos,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-11-2024,Expense,44.8,K Mart,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,21-11-2024,Expense,20.5,Kmart Fan,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-11-2024,Expense,59.3,Optus Wifi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-11-2024,Expense,37.3,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-11-2024,Expense,35.4,Nandos,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-11-2024,Expense,47.5,My Protein Powder,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,19-11-2024,Expense,10.1,Queen victoria,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,18-11-2024,Expense,72.3,Queen victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,18-11-2024,Expense,44.9,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,14-11-2024,Expense,160.5,Bupa Vignesh,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,12-11-2024,Expense,64.4,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-11-2024,Expense,330.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-11-2024,Expense,40.0,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-11-2024,Expense,10.0,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-11-2024,Expense,15.0,Amaysim,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-11-2024,Expense,96.2,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-11-2024,Expense,30.0,Temple Stand,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-11-2024,Expense,18.0,Biology Body Lotion,Online Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-11-2024,Expense,81.0,Kmart,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-11-2024,Expense,30.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,07-11-2024,Expense,14.4,Nandos,Online Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-11-2024,Expense,30.0,Dinner,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-11-2024,Expense,1912.0,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2024,Expense,33.0,Saraku,Others,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-11-2024,Expense,18.0,New Balance Shoe,Gift,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2024,Expense,8.8,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-11-2024,Income,6655.7,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-11-2024,Expense,91.7,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-11-2024,Expense,25.6,Haircut,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,31-10-2024,Expense,67.9,Nutrition Warehouse Protein Powder,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,31-10-2024,Expense,84.4,Wooly and SpiceLab,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,31-10-2024,Expense,6.1,Ice cream,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,31-10-2024,Income,106.3,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-10-2024,Expense,2.5,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-10-2024,Expense,15.2,Diwali Festival,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-10-2024,Expense,27.0,Dominos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-10-2024,Expense,9.0,Ice cream,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-10-2024,Expense,66.9,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-10-2024,Expense,51.3,Unity WiFi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-10-2024,Expense,36.0,Nandos,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-10-2024,Expense,47.5,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-10-2024,Expense,59.0,Optus Wifi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-10-2024,Expense,20.0,Myki,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,20-10-2024,Expense,36.0,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-10-2024,Expense,50.0,Gift card to Raghu,Gift,Online,Vignesh
+2024-12-01T04:06:54.110Z,17-10-2024,Expense,17.9,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,15-10-2024,Expense,160.5,Bupa Vignesh,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,14-10-2024,Expense,18.5,Spice Lab,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,14-10-2024,Expense,20.2,Snacks,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,14-10-2024,Expense,29.4,Hoyts Vettayan,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,14-10-2024,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-10-2024,Expense,73.6,Queen victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-10-2024,Expense,330.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-10-2024,Expense,8.1,Snacks,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-10-2024,Expense,97.0,Origin Hot Water,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-10-2024,Expense,62.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-10-2024,Expense,20.0,Myki,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2024,Expense,7.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,07-10-2024,Expense,14.2,Cheese cake,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-10-2024,Expense,63.1,wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-10-2024,Expense,36.9,la cabra burito bowl,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-10-2024,Expense,39.9,nandos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,1912.0,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,10.0,Myki,Travel,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,20.1,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,245.8,packers,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,34.9,nandos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,3.7,7eleven,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-10-2024,Expense,16.4,wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,03-10-2024,Expense,3.6,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,01-10-2024,Income,6655.7,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2024,Income,89.7,Interest Income,Other Income,Online,Vignesh
+2024-12-01T04:06:54.110Z,29-09-2024,Expense,17.0,Spice Lab,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,29-09-2024,Expense,47.1,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-09-2024,Expense,33.2,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,26-09-2024,Expense,43.2,Queen Victoria,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,26-09-2024,Expense,35.0,Dominos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-09-2024,Expense,66.2,Protein poder,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,23-09-2024,Expense,17.0,Chilli Everest,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2024,Expense,50.0,Screen guard,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2024,Expense,9.5,Coffee,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2024,Expense,75.1,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2024,Expense,10.8,Coffee,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2024,Expense,69.1,Unity WiFi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-09-2024,Expense,163.5,Myer,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,21-09-2024,Expense,78.2,Yara Valley Chocolaterie and tulip,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,20-09-2024,Expense,2.3,Pinball,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,19-09-2024,Expense,68.0,Saraku,Others,Online,Vignesh
+2024-12-01T04:06:54.110Z,19-09-2024,Expense,58.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,17-09-2024,Expense,160.5,Bupa Vignesh,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,17-09-2024,Expense,55.1,Electricity,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,17-09-2024,Expense,142.9,Electricity,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,16-09-2024,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-09-2024,Expense,82.3,Great ocean road,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-09-2024,Expense,66.5,Dyson,Offline Shopping,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-09-2024,Expense,24.8,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-09-2024,Expense,330.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-09-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-09-2024,Expense,6.1,Ice cream,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-09-2024,Expense,0.5,Office works,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-09-2024,Expense,34.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2024,Expense,,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2024,Expense,25.6,Haircut,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2024,Expense,17.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2024,Expense,19.0,Costco,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2024,Expense,12.8,Chips,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-09-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-09-2024,Expense,11.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-09-2024,Expense,22.0,Threading,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-09-2024,Expense,23.4,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-09-2024,Expense,63.0,Protein poder,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-09-2024,Expense,42.8,Victoria and Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,03-09-2024,Expense,48.4,Hoyts - Goat,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,02-09-2024,Expense,10.0,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-09-2024,Income,6885.0,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-09-2024,Expense,30.0,"Cosco Detergent, Weighing Machine, Chair",Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,30-08-2024,Expense,,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-08-2024,Expense,119.3,The Boiling Crab,Gift,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-08-2024,Income,92.7,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2024,Expense,4.9,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2024,Expense,35.0,Ikea,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2024,Expense,24.5,Lunch,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2024,Expense,20.0,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-08-2024,Expense,32.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,27-08-2024,Expense,4.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-08-2024,Expense,5.0,SpiceLab,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-08-2024,Expense,81.2,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-08-2024,Expense,69.1,Unity WiFi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-08-2024,Expense,32.5,SpiceLab,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-08-2024,Expense,16.3,Burger,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-08-2024,Expense,12.2,Burito,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-08-2024,Expense,13.7,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-08-2024,Expense,357.0,lululemon,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,20-08-2024,Expense,8.1,Ice cream,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,19-08-2024,Expense,21.3,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,18-08-2024,Expense,4.5,Uncle tetsu,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,18-08-2024,Expense,62.4,Queen Victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,18-08-2024,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,16-08-2024,Expense,100.0,Vicroads licence,Utility,Cash,Vignesh
+2024-12-01T04:06:54.110Z,16-08-2024,Expense,45.6,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,16-08-2024,Expense,56.1,Costco Pizza Icecream,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,16-08-2024,Expense,71.6,VicRoads,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-08-2024,Expense,160.5,Vignesh Bupa,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-08-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-08-2024,Expense,330.2,Keerthana Bupa,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-08-2024,Expense,66.5,Dyson,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-08-2024,Expense,40.4,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-08-2024,Expense,4.1,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-08-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-08-2024,Expense,30.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-08-2024,Expense,18.9,Nandos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-08-2024,Expense,15.0,MyKi,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-08-2024,Expense,18.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-08-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-08-2024,Expense,10.9,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-08-2024,Expense,80.0,Saraku,Others,Online,Vignesh
+2024-12-01T04:06:54.110Z,06-08-2024,Expense,42.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-08-2024,Expense,8.1,Ice cream,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,05-08-2024,Expense,3.0,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,05-08-2024,Expense,16.9,Nandos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-08-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-08-2024,Expense,60.1,Hoyts,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,02-08-2024,Expense,9.8,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,02-08-2024,Expense,,Idcard,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-08-2024,Income,6431.3,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-08-2024,Expense,30.0,Dominos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-08-2024,Expense,8.1,Ice cream,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,01-08-2024,Expense,25.6,SpiceLab,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,01-08-2024,Expense,30.0,"Cosco Detergent, Weighing Machine, Chair",Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,31-07-2024,Income,92.9,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-07-2024,Expense,98.7,Queen Victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-07-2024,Expense,22.9,Chennai Briyani House,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-07-2024,Expense,21.4,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-07-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-07-2024,Expense,20.0,Dance,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-07-2024,Expense,13.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-07-2024,Expense,8.1,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,24-07-2024,Expense,25.6,Haircut,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,24-07-2024,Expense,12.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-07-2024,Expense,26.4,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,23-07-2024,Expense,4.5,Krispy Kreme,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-07-2024,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-07-2024,Expense,69.1,Unity WiFi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-07-2024,Expense,37.2,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,20-07-2024,Expense,64.3,Electricity,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,20-07-2024,Expense,131.3,Hot Water,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,19-07-2024,Expense,11.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,18-07-2024,Expense,17.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,17-07-2024,Expense,20.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,16-07-2024,Expense,160.5,Vignesh Bupa Insurance,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-07-2024,Expense,65.7,Queen Victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-07-2024,Expense,66.5,Dyson,Offline Shopping,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,11-07-2024,Expense,330.2,Keerthana Bupa Insurance,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-07-2024,Expense,19.5,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-07-2024,Expense,59.0,Saraku,Others,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-07-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-07-2024,Expense,15.0,McD,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-07-2024,Expense,10.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-07-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-07-2024,Expense,45.9,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-07-2024,Expense,50.0,Gift Card to Maadhu,Gift,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-07-2024,Expense,10.0,Chair,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,03-07-2024,Expense,29.3,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,03-07-2024,Expense,25.5,Dominos,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,03-07-2024,Transfer,6500.0,To Hira,Investment,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-07-2024,Expense,52.8,Hoyts,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-07-2024,Expense,23.8,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-07-2024,Income,6249.3,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-07-2024,Expense,50.0,"Cosco - Sanitary Pads, Detergent - Weighing Machine , Chair",Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,29-06-2024,Expense,75.2,Queen Victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-06-2024,Expense,26.0,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-06-2024,Income,82.9,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-06-2024,Expense,3.5,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-06-2024,Expense,,Skybus,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,9.0,K Mart Drawing,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,17.7,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,10.0,Weighing Machine,Offline Shopping,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,18.8,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,69.1,Unity WiFi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,15.0,Amaysim,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-06-2024,Expense,26.0,Saraku,Others,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,22-06-2024,Expense,5.2,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,20-06-2024,Expense,6.5,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,19-06-2024,Expense,65.7,Origin Electricity,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,18-06-2024,Expense,23.2,Spicelab,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,18-06-2024,Expense,29.0,Language Academy,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,17-06-2024,Expense,26.6,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,17-06-2024,Expense,160.5,Vignesh Bupa,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,15-06-2024,Expense,63.0,Queen Victoria,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,14-06-2024,Expense,20.6,LinkedIN,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,13-06-2024,Expense,40.0,MyKi,Travel,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,13-06-2024,Expense,1014.5,Mornington Peninsula,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-06-2024,Expense,66.5,Dyson,Offline Shopping,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-06-2024,Expense,68.9,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,11-06-2024,Expense,330.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-06-2024,Expense,8.0,MyKi,Offline Shopping,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,10-06-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-06-2024,Expense,10.0,Equifax,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-06-2024,Expense,40.0,MyKi,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2024,Expense,1.3,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,08-06-2024,Expense,15.0,Eyebrows,Utility,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2024,Expense,8.6,Ice cream,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2024,Expense,59.9,Spice Lab,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2024,Expense,10.0,BigW Tripod,Offline Shopping,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2024,Expense,19.0,K Mart Gift,Gift,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,06-06-2024,Expense,5.6,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,04-06-2024,Expense,18.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,03-06-2024,Expense,25.6,Haircut,Utility,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,03-06-2024,Expense,6.1,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-06-2024,Transfer,5000.0,To Hira,Investment,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-06-2024,Expense,18.8,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-06-2024,Income,6249.3,Salary,Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-06-2024,Expense,20.0,"Cosco - Sanitary Pads, Detergent",Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-06-2024,Expense,25.0,Tetsu,Gift,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,01-06-2024,Expense,40.9,Cosco,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-06-2024,Expense,79.2,Queen Victoria,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,31-05-2024,Income,100.3,Internet income,Other Income,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-05-2024,Expense,69.1,Uniti Wifi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,27-05-2024,Expense,15.0,Amaysim,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,26-05-2024,Expense,8.1,Ice cream,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,26-05-2024,Expense,13.5,Spice Lab,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-05-2024,Expense,32.5,Saraku,Others,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,25-05-2024,Expense,57.9,Queen Victoria,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,24-05-2024,Expense,14.3,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,24-05-2024,Expense,26.0,Saraku,Others,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,22-05-2024,Expense,60.6,Electricity,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-05-2024,Expense,59.9,Hot Water,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-05-2024,Expense,24.3,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,20-05-2024,Expense,29.0,Language Academy PTE,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,19-05-2024,Expense,13.3,Wooli,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,17-05-2024,Expense,30.2,doordash,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,17-05-2024,Expense,20.1,Wooli,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,15-05-2024,Expense,160.5,Vignesh Bupa Insurance,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-05-2024,Expense,20.6,LinkedIN,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,14-05-2024,Expense,9.0,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,13-05-2024,Expense,330.2,Keerthana Bupa Insurance,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-05-2024,Expense,66.5,Dyson,Offline Shopping,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-05-2024,Expense,58.9,Queen Victoria,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-05-2024,Expense,35.5,Coffee cake,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-05-2024,Expense,4.4,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,11-05-2024,Expense,25.0,cosco - anirudh concert day,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-05-2024,Expense,22.5,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,11-05-2024,Expense,30.0,Amaysim,Utility,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,10-05-2024,Expense,35.7,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,10-05-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-05-2024,Expense,336.6,Anirudh concert,Entertainment,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,06-05-2024,Expense,24.5,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,04-05-2024,Expense,15.0,Spice Lab,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,04-05-2024,Expense,5.3,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,03-05-2024,Expense,1.6,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,03-05-2024,Expense,18.0,Dominos,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,02-05-2024,Expense,,Skybus,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,01-05-2024,Income,7112.3,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-05-2024,Expense,10.0,Cosco - Sanitary Pads,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-05-2024,Expense,6.1,Gelateria,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-05-2024,Expense,,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-05-2024,Expense,15.0,cosco,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-05-2024,Expense,,Skybus,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,01-05-2024,Expense,17.2,Food,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,30-04-2024,Expense,10.9,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,30-04-2024,Income,93.5,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-04-2024,Expense,20.8,VicRoad,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-04-2024,Expense,,Skybus,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,29-04-2024,Expense,13.4,McD,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,29-04-2024,Expense,,Uber Share,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-04-2024,Expense,10.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-04-2024,Expense,52.3,Queen Victoria,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,26-04-2024,Expense,62.3,Electricity,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,26-04-2024,Expense,9.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,26-04-2024,Expense,,Skybus,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-04-2024,Expense,14.4,Lunch,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-04-2024,Expense,32.5,Saraku,Others,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,26-04-2024,Expense,3.6,Chocolate,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,25-04-2024,Expense,11.0,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,25-04-2024,Expense,39.5,Spicelab,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,25-04-2024,Expense,26.7,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,23-04-2024,Expense,30.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,22-04-2024,Expense,59.9,Hot Water,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-04-2024,Expense,24.5,KMART,Offline Shopping,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,22-04-2024,Expense,69.1,Unity WiFi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-04-2024,Expense,14.1,McD,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,21-04-2024,Expense,21.5,Uncle Tetsu,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,20-04-2024,Expense,14.6,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,19-04-2024,Expense,34.9,Queen Victoria,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,18-04-2024,Expense,29.0,Language Academy PTE,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,17-04-2024,Expense,12.9,Stick foood,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,17-04-2024,Expense,2.0,BigW,Offline Shopping,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,16-04-2024,Expense,20.5,Woolly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,16-04-2024,Expense,160.5,Bupa Vignesh,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,14-04-2024,Expense,2.3,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,13-04-2024,Expense,,Myki,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-04-2024,Expense,66.5,Dyson,Offline Shopping,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,13-04-2024,Expense,11.3,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,13-04-2024,Expense,6.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,12-04-2024,Expense,15.8,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,12-04-2024,Expense,17.0,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-04-2024,Expense,13.0,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,11-04-2024,Expense,8.1,Ice cream,Gift,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,11-04-2024,Expense,330.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-04-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,07-04-2024,Expense,16.9,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,07-04-2024,Expense,8.1,Ice cream,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,06-04-2024,Expense,25.6,Haircut,Utility,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,06-04-2024,Expense,35.1,Queen Victoria,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,06-04-2024,Expense,20.0,Dominos,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,06-04-2024,Expense,23.2,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,02-04-2024,Expense,100.7,Queen Victoria,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,01-04-2024,Expense,10.0,Cosco - Sanitary Pads,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-04-2024,Expense,110.9,Jail Geelong,Travel,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-04-2024,Income,6249.3,Salary,Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-04-2024,Expense,53.4,Spice Labs,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,01-04-2024,Expense,30.0,Haircut,Utility,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,31-03-2024,Income,70.5,Interest income,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-03-2024,Expense,124.0,Puffing billy,Travel,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,30-03-2024,Expense,9.1,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,30-03-2024,Expense,40.0,Myki,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,30-03-2024,Expense,21.2,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,27-03-2024,Expense,12.3,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-03-2024,Expense,11.0,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-03-2024,Expense,15.0,cosco,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-03-2024,Transfer,62.4,Notary Courier,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,25-03-2024,Expense,52.0,Saraku,Others,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,24-03-2024,Expense,3.7,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,24-03-2024,Expense,7.0,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,23-03-2024,Expense,86.6,Queen Victoria,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,22-03-2024,Expense,69.0,Unity WiFi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-03-2024,Expense,3.3,Office works,Utility,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,21-03-2024,Expense,3.1,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,21-03-2024,Transfer,328.9,Notary,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,20-03-2024,Expense,7.2,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,20-03-2024,Expense,,Skybus,Travel,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,20-03-2024,Expense,2.3,Wooli,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-03-2024,Expense,29.0,Language Academy PTE,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,18-03-2024,Expense,12.0,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,17-03-2024,Expense,57.0,Kovai,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,17-03-2024,Expense,23.5,Shiva Vishnu Canteen,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,16-03-2024,Expense,12.3,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,15-03-2024,Expense,156.1,Bupa Vignesh,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-03-2024,Expense,31.5,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,14-03-2024,Expense,8.7,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-03-2024,Expense,60.7,Origin Electricity,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-03-2024,Expense,301.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-03-2024,Expense,2.5,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,12-03-2024,Expense,19.8,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,11-03-2024,Expense,55.0,LinkedIN,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-03-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-03-2024,Expense,48.0,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,07-03-2024,Expense,23.8,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-03-2024,Expense,57.0,Origin Water Bill,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-03-2024,Expense,17.7,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,04-03-2024,Expense,115.0,Driving Class,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-03-2024,Expense,69.8,Vicroad,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-03-2024,Expense,35.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-03-2024,Expense,5.2,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,03-03-2024,Expense,16.5,Dominos,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,02-03-2024,Expense,9.7,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-03-2024,Income,6249.3,Salary,Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-03-2024,Expense,30.0,Cosco,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-03-2024,Expense,8.1,Ice Cream,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,01-03-2024,Expense,4.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,29-02-2024,Expense,6.5,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,29-02-2024,Income,68.5,Interest income,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,28-02-2024,Expense,19.7,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-02-2024,Expense,17.0,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,26-02-2024,Expense,132.9,Australian open,Entertainment,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,25-02-2024,Expense,16.5,Dominos,Offline Food,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,24-02-2024,Expense,68.5,Queen Victoria,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,23-02-2024,Expense,62.0,Fever candlelight music,Entertainment,Online,Vignesh
+2024-12-01T04:06:54.110Z,23-02-2024,Expense,15.0,Kfc,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,23-02-2024,Expense,23.0,Saraku,Others,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,22-02-2024,Expense,41.0,Spicelab,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,22-02-2024,Expense,11.3,Wooli,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,21-02-2024,Expense,69.0,Uniti Wifi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,21-02-2024,Expense,8.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,20-02-2024,Expense,4.9,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,19-02-2024,Expense,29.0,Language Academy PTE,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,19-02-2024,Expense,34.0,Thai Restaurant,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,19-02-2024,Expense,8.1,Ice Cream,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,18-02-2024,Expense,38.4,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,16-02-2024,Expense,9.0,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,14-02-2024,Expense,35.9,Chilli Everest,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-02-2024,Expense,301.2,Bupa Keerthana,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-02-2024,Expense,156.1,Bupa Vignesh,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-02-2024,Expense,,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-02-2024,Expense,15.2,Office Lunch,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-02-2024,Expense,5.5,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T05:46:18.243Z,12-02-2024,Income,123213.0,efad,Others,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,11-02-2024,Expense,4.0,China Town Lunar New Year,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-02-2024,Expense,43.5,McD,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-02-2024,Expense,30.0,Amaysim,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,10-02-2024,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-02-2024,Expense,63.6,Electricity,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-02-2024,Expense,78.1,Victoria market,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,09-02-2024,Expense,5.1,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,08-02-2024,Expense,25.5,Haircut,Utility,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,07-02-2024,Expense,38.4,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,07-02-2024,Expense,18.0,Domino's,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-02-2024,Expense,57.0,Origin Water Bill,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-02-2024,Expense,15.0,Amaysim,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,05-02-2024,Expense,6.0,Nando,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,05-02-2024,Expense,18.5,Wooli,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,03-02-2024,Expense,5.2,Souvenir,Entertainment,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,02-02-2024,Expense,36.8,wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,02-02-2024,Expense,43.0,Saraku,Others,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,02-02-2024,Expense,7.4,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-02-2024,Expense,8.0,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-02-2024,Income,6249.3,Salary,Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,31-01-2024,Income,64.1,Interest income,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-01-2024,Expense,25.2,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,28-01-2024,Expense,4.1,Mcd,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,28-01-2024,Expense,20.0,Myki,Travel,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-01-2024,Expense,79.0,Uniti Wifi,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,27-01-2024,Expense,35.0,Mama gift,Gift,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,27-01-2024,Expense,13.0,Board and mat,Offline Shopping,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,27-01-2024,Expense,8.7,Wooly,Groceries,EBIX,Keerthana
+2024-12-01T04:06:54.110Z,25-01-2024,Expense,2.4,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,23-01-2024,Expense,25.9,Victoria Market,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,23-01-2024,Expense,7.0,Victoria Market,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,21-01-2024,Expense,33.6,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,21-01-2024,Income,10.0,Cashback,Other Income,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,20-01-2024,Expense,17.0,Dominos,Offline Food,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,20-01-2024,Expense,13.5,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,19-01-2024,Expense,46.6,Groceries,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,19-01-2024,Expense,9.0,Groceries,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,18-01-2024,Expense,29.0,PTE,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,16-01-2024,Expense,156.1,Vignesh bupa,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,16-01-2024,Expense,20.0,Amaysim,Utility,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,14-01-2024,Expense,26.8,Groceries,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,13-01-2024,Expense,40.0,Myki,Travel,Online,Vignesh
+2024-12-01T04:06:54.110Z,13-01-2024,Expense,16.1,Wooly,Groceries,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,13-01-2024,Expense,17.0,MCD,Entertainment,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,12-01-2024,Expense,27.2,Saraku,Entertainment,EBIX,Vignesh
+2024-12-01T04:06:54.110Z,11-01-2024,Expense,301.2,Keerthana Bupa Insurance,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-01-2024,Expense,350.0,Driving Class,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,11-01-2024,Expense,18.4,Momo,Offline Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-01-2024,Expense,2129.2,Rent,Rent,Online,Vignesh
+2024-12-01T04:06:54.110Z,10-01-2024,Expense,66.1,Electricity,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,10-01-2024,Expense,35.9,Chilli Everest,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,08-01-2024,Expense,14.0,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,07-01-2024,Expense,136.8,Victoria and spice lab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,06-01-2024,Expense,15.0,Woolly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,05-01-2024,Expense,19.6,Woolly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,05-01-2024,Expense,15.0,Amaysim,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-01-2024,Expense,119.3,Hot water,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,04-01-2024,Expense,25.0,Beer,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,03-01-2024,Expense,41.0,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,02-01-2024,Expense,17.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-01-2024,Income,8962.3,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-12-2023,Income,7.1,Interest income,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-12-2023,Expense,22.0,Domino's,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,26-12-2023,Expense,1447.3,Philip island trip,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,24-12-2023,Expense,30.0,Myki,Travel,Online,Vignesh
+2024-12-01T04:06:54.110Z,23-12-2023,Expense,11.0,Chicken,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-12-2023,Expense,28.5,Amusement and icecream,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-12-2023,Expense,19.0,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-12-2023,Expense,79.0,Wifi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,22-12-2023,Expense,26.5,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,21-12-2023,Expense,13.5,Wooly,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,21-12-2023,Expense,12.0,Waterproof,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,19-12-2023,Expense,20.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,18-12-2023,Expense,31.3,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,17-12-2023,Expense,7.7,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,16-12-2023,Expense,22.0,Eyebrow,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-12-2023,Expense,11.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,15-12-2023,Expense,44.7,Village Sunshine,Entertainment,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,14-12-2023,Expense,24.9,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,13-12-2023,Expense,62.1,Origin Electricity,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-12-2023,Expense,44.0,Chilli Everest and icecream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,12-12-2023,Expense,301.2,Keerthana Bupa Insurance,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-12-2023,Expense,156.1,Vignesh bupa,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-12-2023,Expense,14.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,10-12-2023,Expense,26.1,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,10-12-2023,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-12-2023,Expense,54.2,Saraku,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,09-12-2023,Expense,30.0,Myki,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,09-12-2023,Expense,42.0,Bedsheet,Offline Shopping,Cash,Keerthana
+2024-12-01T04:06:54.110Z,09-12-2023,Expense,12.5,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,09-12-2023,Expense,13.3,Kmart,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-12-2023,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,07-12-2023,Expense,20.5,Vic roads,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,07-12-2023,Expense,48.9,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,05-12-2023,Expense,20.4,Haircut,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-12-2023,Expense,13.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,03-12-2023,Expense,8.5,Victoria Market,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,03-12-2023,Expense,57.0,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,02-12-2023,Expense,75.8,Perfume,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,02-12-2023,Expense,11.0,Wooly chicken,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,02-12-2023,Expense,69.0,Dress,Offline Shopping,Online,Keerthana
+2024-12-01T04:06:54.110Z,02-12-2023,Expense,27.0,Medicine,Medical,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-12-2023,Income,6249.3,Nov income,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-12-2023,Expense,17.5,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,30-11-2023,Income,17.4,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-11-2023,Income,5.6,Interest,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,30-11-2023,Expense,13.5,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,29-11-2023,Expense,6.0,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,29-11-2023,Expense,15.0,Domino,Online Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,27-11-2023,Expense,7.2,Milk,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,26-11-2023,Expense,25.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,25-11-2023,Expense,9.0,Paraka Vittadhu,Others,Online,Keerthana
+2024-12-01T04:06:54.110Z,25-11-2023,Expense,11.5,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,24-11-2023,Expense,55.0,Saraku,Entertainment,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,24-11-2023,Expense,25.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,23-11-2023,Expense,19.7,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,23-11-2023,Expense,22.0,Kebab,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-11-2023,Expense,79.0,Wifi,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,21-11-2023,Expense,20.0,Mobile,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,20-11-2023,Expense,75.9,Spice lab,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,18-11-2023,Expense,14.4,Fish,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-11-2023,Expense,31.1,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-11-2023,Expense,28.1,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-11-2023,Expense,4.8,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-11-2023,Expense,63.6,Groceries queen Victoria Market,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-11-2023,Expense,156.1,Bupa Vignesh,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,14-11-2023,Expense,18.5,Party time,Offline Food,Online,Vignesh
+2024-12-01T04:06:54.110Z,13-11-2023,Expense,15.8,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,13-11-2023,Expense,301.2,Bupa,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,12-11-2023,Expense,29.2,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,10-11-2023,Expense,21.5,Wooly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,10-11-2023,Expense,63.8,Origin Electricity,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,10-11-2023,Expense,49.1,Origin Gas,Utility,Online,Vignesh
+2024-12-01T04:06:54.110Z,10-11-2023,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,10-11-2023,Expense,2129.2,Rent,Rent,Online,Vignesh
+2024-12-01T04:06:54.110Z,07-11-2023,Expense,27.1,McD,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-11-2023,Expense,43.3,Big W,Offline Shopping,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-11-2023,Expense,15.0,Big W,Offline Shopping,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-11-2023,Expense,23.0,K mart,Offline Shopping,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-11-2023,Expense,46.7,Sher singh,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-11-2023,Expense,26.0,Saraku,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,06-11-2023,Expense,11.4,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,05-11-2023,Expense,32.0,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,12.4,Victoria Market,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,17.9,Victoria Market,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,4.1,Victoria Market,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,17.3,Med Food,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,34.0,Chennai briyani,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,6.5,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-11-2023,Expense,10.0,Dhaba,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,02-11-2023,Expense,30.0,Amazon,Online Shopping,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,02-11-2023,Expense,37.9,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-11-2023,Income,6249.3,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,31-10-2023,Expense,13.0,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,29-10-2023,Expense,20.3,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,28-10-2023,Expense,44.0,saraku,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,28-10-2023,Expense,80.9,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,27-10-2023,Expense,22.1,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,27-10-2023,Expense,40.0,Uber eats,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,27-10-2023,Expense,301.2,Keerthana insurance,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,24-10-2023,Expense,40.0,Myki,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,24-10-2023,Expense,16.7,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,24-10-2023,Expense,20.0,Amaysim,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,24-10-2023,Expense,7.5,Icecream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,24-10-2023,Expense,53.3,3 brothers,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-10-2023,Expense,37.6,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-10-2023,Expense,25.0,Cake,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-10-2023,Expense,11.0,Ice cream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-10-2023,Expense,37.6,Ponyfish,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-10-2023,Expense,37.8,Nando,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-10-2023,Expense,8.1,Ice cream,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,22-10-2023,Expense,15.0,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,21-10-2023,Expense,5.5,Wooly,Groceries,Online,Vignesh
+2024-12-01T04:06:54.110Z,21-10-2023,Expense,8.1,Ice cream,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,21-10-2023,Expense,53.2,Wooly,Groceries,Online,Keerthana
+2024-12-01T04:06:54.110Z,21-10-2023,Expense,8.0,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,20-10-2023,Expense,30.3,Haircut,Utility,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,18-10-2023,Expense,33.0,Spicelab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-10-2023,Expense,10.3,Icecream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-10-2023,Expense,26.7,Woolly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,17-10-2023,Expense,11.4,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,17-10-2023,Expense,156.1,Vignesh bupa,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,15-10-2023,Expense,21.2,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-10-2023,Expense,12.1,Ice cream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-10-2023,Expense,18.9,Pizza hut,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-10-2023,Expense,26.6,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-10-2023,Expense,53.0,Vodka,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-10-2023,Expense,10.5,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-10-2023,Expense,40.8,Uber eats,Online Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,13-10-2023,Expense,15.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,11-10-2023,Expense,97.8,Wolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-10-2023,Expense,141.0,Big W,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-10-2023,Expense,44.4,Indian restaurant,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,10-10-2023,Expense,42.1,Uber eats,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,10-10-2023,Expense,96.5,Spicelab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-10-2023,Expense,3.4,Chocolate,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-10-2023,Expense,19.0,Wolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-10-2023,Expense,93.0,K mart,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-10-2023,Expense,350.0,Caah,Utility,Cash,Keerthana
+2024-12-01T04:06:54.110Z,09-10-2023,Expense,90.6,Shein,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2023,Expense,2129.2,Rent,Rent,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2023,Expense,2002.0,Bond amount refundable,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2023,Expense,118.0,Kmart,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2023,Expense,18.0,Chennai briyani,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2023,Expense,10.0,McDonald's,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-10-2023,Expense,113.5,K-Mart,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-10-2023,Expense,18.4,McDonald's,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-10-2023,Expense,9.5,KFC,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-10-2023,Expense,58.2,Leo movie,Entertainment,Online,Keerthana
+2024-12-01T04:06:54.110Z,06-10-2023,Expense,50.0,Ace movers,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,05-10-2023,Expense,35.7,Malaysian restaurant,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,05-10-2023,Expense,67.2,Uber car share,Travel,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-10-2023,Expense,385.0,Sony tv,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,05-10-2023,Expense,1030.0,Furniture,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-10-2023,Expense,34.7,Wolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,02-10-2023,Expense,31.0,Otway purchase,Travel,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,02-10-2023,Expense,20.6,Chicken,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,02-10-2023,Expense,49.8,Kolapasi,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-10-2023,Transfer,-3000.0,From Anu,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-10-2023,Expense,5.5,Icecream,Travel,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,01-10-2023,Income,4569.2,Salary,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,01-10-2023,Expense,243.0,Cash Parakka Vittadhu,Offline Food,Cash,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2023,Expense,3.9,7eleven water,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2023,Expense,880.0,Nava electronics,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2023,Expense,24.7,Om veg,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2023,Expense,17.0,Domino's,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2023,Expense,6.9,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-09-2023,Expense,20.0,Myki recharge,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,29-09-2023,Expense,49.4,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,29-09-2023,Expense,198.0,Otway fly,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,28-09-2023,Income,2000.0,Relocation bonus,Salary,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-09-2023,Expense,7.7,Wolly,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,26-09-2023,Expense,135.0,Agoda Apollo bay,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,26-09-2023,Expense,20.0,Mobile recharge,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,26-09-2023,Expense,10.0,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,26-09-2023,Expense,10.6,Woolly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,26-09-2023,Expense,184.0,Uber car share,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,25-09-2023,Expense,6.8,Ice cream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,25-09-2023,Expense,21.8,Weighing machine,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2023,Expense,49.7,Greek restaurant,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2023,Expense,12.3,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2023,Expense,63.9,Spicelab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-09-2023,Expense,38.7,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,20-09-2023,Expense,36.6,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-09-2023,Expense,63.1,Woolworth,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,17-09-2023,Expense,68.1,Max on hardware,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,16-09-2023,Expense,6.1,Ice cream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-09-2023,Expense,8.0,Baby powder,Groceries,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,16-09-2023,Expense,32.8,Nandos,Offline Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,16-09-2023,Expense,3.0,Wooly,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-09-2023,Expense,48.0,Simply indian,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-09-2023,Expense,71.0,Sim and myki,Travel,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,15-09-2023,Expense,34.0,Alcohol,Entertainment,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,15-09-2023,Expense,25.3,Cornflakes,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-09-2023,Expense,26.2,Hoyt's snacks,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-09-2023,Expense,100.0,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-09-2023,Expense,22.0,Skybus,Travel,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,14-09-2023,Expense,9.0,Drinks,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-09-2023,Expense,5.2,Pafu co bubble tea,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-09-2023,Expense,6.5,Cookie,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-09-2023,Expense,249.9,Keerthana insurance,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-09-2023,Expense,27.8,Uber eats,Online Food,Debit Card,Vignesh
+2024-12-01T04:06:54.110Z,09-09-2023,Expense,54.6,Hoyt's Jawaan,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2023,Expense,30.0,Spicelab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2023,Expense,15.0,Eyebrows,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-09-2023,Income,1361.0,Reimbursement,Other Income,Online,Keerthana
+2024-12-01T04:06:54.110Z,08-09-2023,Expense,7.5,Cash withdrawal charges,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-09-2023,Expense,56.8,Nandos,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-09-2023,Expense,35.3,Woolworths,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-09-2023,Expense,56.4,Spicelab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2023,Expense,18.0,Fried rice,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2023,Expense,32.7,Woolworth,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,29-08-2023,Expense,20.0,Recharge,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,28-08-2023,Expense,20.9,Domino,Online Food,Online,Keerthana
+2024-12-01T04:06:54.110Z,26-08-2023,Expense,349.5,Costco,Gift,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,19-08-2023,Expense,12.4,Sweet,Gift,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-08-2023,Expense,128.7,Groceries,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-08-2023,Expense,84.4,Spice lab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-08-2023,Expense,50.5,Movie dinner,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-08-2023,Expense,39.4,Chicken,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-08-2023,Expense,44.8,Briyani,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-08-2023,Expense,21.0,Burger,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,09-08-2023,Expense,30.0,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,05-08-2023,Expense,41.0,Food,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,04-08-2023,Expense,14.5,Food,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-08-2023,Income,3410.0,August perdiem,Salary,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,31-07-2023,Expense,20.0,Amaysim,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-07-2023,Expense,40.5,Spice lab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-07-2023,Expense,250.0,Damage deposit Kula,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,28-07-2023,Expense,9.0,Chilli powder,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,25-07-2023,Expense,20.2,McDonald’s,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-07-2023,Expense,124.5,Treat,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-07-2023,Expense,23.2,Snacks,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,20-07-2023,Expense,13.0,Lunch,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-07-2023,Expense,38.3,Pizza,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-07-2023,Expense,8.8,Juice,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-07-2023,Expense,53.0,Boots and shopping bag,Offline Shopping,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-07-2023,Income,3410.0,Perdiem July,Salary,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-07-2023,Expense,25.0,Movie,Entertainment,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-07-2023,Expense,6.1,Icecream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-07-2023,Expense,130.0,Costco,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,05-07-2023,Expense,27.4,Parota,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-07-2023,Expense,40.0,Perfume,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-07-2023,Expense,24.4,Icecream,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-06-2023,Expense,36.0,Mirchi street,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,30-06-2023,Expense,20.0,Jigarthanda,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,27-06-2023,Expense,28.4,Pizza,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-06-2023,Expense,8.5,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-06-2023,Expense,23.0,Spice lab,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,22-06-2023,Expense,50.0,Team lunch,Offline Food,Cash,Keerthana
+2024-12-01T04:06:54.110Z,20-06-2023,Expense,56.5,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,20-06-2023,Expense,21.9,Food,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-06-2023,Income,3300.0,June perdiem,Salary,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-06-2023,Expense,34.2,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-06-2023,Expense,11.0,Subway,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,10-06-2023,Expense,35.6,Fried rice,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,10-06-2023,Expense,42.9,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2023,Expense,16.1,Food,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2023,Expense,4.0,Shake,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2023,Expense,34.7,Atta,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-06-2023,Expense,100.0,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-06-2023,Expense,37.9,Food,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,06-06-2023,Expense,40.0,Amaysim,Utility,Online,Keerthana
+2024-12-01T04:06:54.110Z,04-06-2023,Expense,27.3,Fried rice,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-06-2023,Expense,32.4,Indian store,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,01-06-2023,Expense,56.5,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,29-05-2023,Expense,7.0,Sanitary pad,Utility,Cash,Keerthana
+2024-12-01T04:06:54.110Z,29-05-2023,Expense,29.7,Nando,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,27-05-2023,Expense,12.8,Nando,Online Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,25-05-2023,Expense,29.0,Indian store,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-05-2023,Expense,44.3,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-05-2023,Expense,34.0,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,23-05-2023,Expense,25.0,Access card,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-05-2023,Expense,25.5,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,18-05-2023,Expense,34.0,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-05-2023,Expense,34.0,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,16-05-2023,Expense,10.9,Coles,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,15-05-2023,Expense,34.0,Skybus,Travel,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-05-2023,Expense,10.5,Chapathi,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,14-05-2023,Expense,13.5,Groceries,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,13-05-2023,Expense,36.5,Medicine,Medical,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,11-05-2023,Expense,29.4,Indian store,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,10-05-2023,Expense,68.0,Indian store,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-05-2023,Expense,183.0,Sim and Myki card,Utility,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-05-2023,Expense,167.6,Coles grocery,Groceries,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,08-05-2023,Expense,90.5,Travel food at Melbourne airport,Offline Food,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-05-2023,Income,2340.0,Perdiem for may month,Salary,Debit Card,Keerthana
+2024-12-01T04:06:54.110Z,07-05-2023,Income,300.0,Cash,Salary,Cash,Keerthana

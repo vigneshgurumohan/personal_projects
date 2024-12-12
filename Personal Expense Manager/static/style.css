@@ -1,0 +1,517 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f7;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 10px;
+    color: #333;
+}
+
+thead {
+    background-color: #f8f9fa;
+}
+
+th {
+    padding: 16px 20px;
+    text-align: left;
+    font-weight: 500;
+    color: #666;
+    border-bottom: 1px solid #eee;
+    white-space: nowrap;
+}
+
+td {
+    padding: 14px 20px;
+    border-bottom: 1px solid #eee;
+    color: #333;
+}
+
+/* Alternate row colors */
+tbody tr:nth-child(even) {
+    background-color: #fafbfc;
+}
+
+/* Hover effect on rows */
+tbody tr:hover {
+    background-color: #f5f7f9;
+}
+
+/* Column specific styles */
+td:first-child, th:first-child {
+    padding-left: 24px;
+}
+
+td:last-child, th:last-child {
+    padding-right: 24px;
+}
+
+/* Amount column alignment */
+td:nth-child(4) {
+    text-align: right;
+}
+
+/* Date column style */
+td:nth-child(2) {
+    color: #666;
+}
+
+/* Status or type indicators */
+td:nth-child(3) {
+    position: relative;
+}
+
+/* Add these new styles for better typography */
+.data-table {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+thead th {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+tbody td {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Responsive table */
+@media (max-width: 768px) {
+    .data-table {
+        margin: 10px -15px;
+        border-radius: 0;
+    }
+    
+    td, th {
+        padding: 12px 15px;
+    }
+}
+
+/* Empty state styling */
+tbody tr:empty {
+    display: none;
+}
+
+/* Loading state */
+.data-table.loading {
+    opacity: 0.7;
+    pointer-events: none;
+}
+
+/* Scrollable table container */
+.data-table-container {
+    overflow-x: auto;
+    margin: 0 -20px;
+    padding: 0 20px;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Custom scrollbar */
+.data-table-container::-webkit-scrollbar {
+    height: 8px;
+}
+
+.data-table-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.data-table-container::-webkit-scrollbar-thumb {
+    background: #ddd;
+    border-radius: 4px;
+}
+
+.data-table-container::-webkit-scrollbar-thumb:hover {
+    background: #ccc;
+}
+
+/* Container Layout */
+.container {
+    max-width: 1580px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    margin-bottom: 32px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+    letter-spacing: -0.005em;
+    margin-bottom: 16px;
+    color: #1d1d1f;
+}
+
+.subtitle {
+    font-size: 24px;
+    color: #86868b;
+    font-weight: 400;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Form Container */
+.form-container {
+    width: 100%;
+    max-width: 680px;
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 50px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Form Groups */
+.form-group {
+    margin-bottom: 32px;
+}
+
+label {
+    font-size: 17px;
+    font-weight: 400;
+    color: #1d1d1f;
+    margin-bottom: 8px;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 17px;
+    border: 1px solid #d2d2d7;
+    border-radius: 12px;
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-color: #0071e3;
+    box-shadow: 0 0 0 4px rgba(0, 113, 227, 0.1);
+}
+
+/* Button Styles */
+.button-group {
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+button, .more-details-button {
+    flex: 1;
+    padding: 14px 28px;
+    font-size: 17px;
+    font-weight: 400;
+    border-radius: 980px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+}
+
+button {
+    background-color: #0071e3;
+    color: white;
+}
+
+.more-details-button {
+    background-color: #f5f5f7;
+    color: #1d1d1f;
+}
+
+button:hover, .more-details-button:hover {
+    background-color: #0077ED;
+    transform: translateY(-1px);
+}
+
+/* Table Styles */
+.data-table {
+    width: 100%;
+    max-height: 70vh;
+    overflow: auto;
+    background: white;
+    border-radius: 1px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    margin: 20px 0;
+    position: relative;
+}
+
+table {
+    min-width: 1000px;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 14px;
+    color: #333;
+}
+
+/* Sticky header */
+thead th {
+    position: sticky;
+    top: 0;
+    background: #f8f9fa;
+    z-index: 10;
+    padding: 16px 20px;
+    text-align: left;
+    font-weight: 500;
+    color: #666;
+    border-bottom: 1px solid #eee;
+    white-space: nowrap;
+}
+
+/* Column specific widths */
+th:nth-child(1), td:nth-child(1) { min-width: 150px; } /* Timestamp */
+th:nth-child(2), td:nth-child(2) { min-width: 120px; } /* Date */
+th:nth-child(3), td:nth-child(3) { min-width: 120px; } /* Type */
+th:nth-child(4), td:nth-child(4) { min-width: 120px; } /* Amount */
+th:nth-child(5), td:nth-child(5) { min-width: 200px; } /* Description */
+th:nth-child(6), td:nth-child(6) { min-width: 150px; } /* Category */
+th:nth-child(7), td:nth-child(7) { min-width: 120px; } /* Mode */
+th:nth-child(8), td:nth-child(8) { min-width: 100px; } /* Added By */
+
+/* Custom scrollbar styling */
+.data-table::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+
+.data-table::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 6px;
+}
+
+.data-table::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 6px;
+    border: 3px solid #f1f1f1;
+}
+
+.data-table::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+/* For Firefox */
+.data-table {
+    scrollbar-width: thin;
+    scrollbar-color: #c1c1c1 #f1f1f1;
+}
+
+/* Ensure the container is responsive */
+@media (max-width: 768px) {
+    .data-table {
+        margin: 10px -15px;
+        border-radius: 0;
+        max-height: 60vh;
+    }
+    
+    .container {
+        padding: 10px;
+    }
+}
+
+/* Add horizontal scroll indicator */
+/* .scroll-indicator {
+    display: none;
+    text-align: center;
+    padding: 8px;
+    color: #666;
+    font-size: 13px;
+    background: rgba(248, 249, 250, 0.9);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+} */
+
+@media (max-width: 1200px) {
+    .scroll-indicator {
+        display: block;
+    }
+}
+
+/* Add these new styles */
+.filter-status {
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #f5f5f7;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #1d1d1f;
+    display: none;
+    transition: opacity 0.3s ease;
+}
+
+.filter-status.visible {
+    display: block;
+}
+
+.sort-group {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.sort-select {
+    padding: 8px 12px;
+    border: 1px solid #d2d2d7;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 14px;
+}
+
+.sort-button {
+    padding: 8px 16px;
+    border: 1px solid #d2d2d7;
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.sort-button:hover {
+    background-color: #f5f5f7;
+}
+
+/* Update filter section to accommodate sort controls */
+.filter-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.filter-group {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+    .sort-group {
+        flex-wrap: wrap;
+    }
+    
+    .sort-select {
+        flex: 1;
+    }
+}
+
+/* Add these styles to your existing CSS */
+.data-table tbody tr {
+    transition: opacity 0.2s ease;
+}
+
+.data-table tbody tr.filtered,
+.data-table tbody tr.hidden {
+    display: none;
+}
+
+/* Add these new styles */
+.filter-section {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.filter-group {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.date-range-filter, .amount-range-filter {
+    display: flex;
+    gap: 10px;
+}
+
+.date-range-filter input, .amount-range-filter input {
+    flex: 1;
+    min-width: 0;
+}
+
+.multi-select {
+    min-height: 38px;
+}
+
+.filter-actions {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.active-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.filter-tag {
+    background: #f0f0f0;
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.filter-tag button {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #666;
+}
+
+.saved-filters {
+    margin-top: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .filter-group {
+        grid-template-columns: 1fr;
+    }
+}

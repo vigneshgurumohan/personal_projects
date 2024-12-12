@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaction Manager</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v=1.0.1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;500;600&display=swap">
+</head>
+<body>
+    <div class="background"></div>
+    <div class="container">
+        <header>
+            <h1>Transaction Manager</h1>
+            <p class="subtitle">Simple. Intuitive. Powerful.</p>
+        </header>
+        
+        <div class="form-container">
+            <form id="user-form">
+                <div class="form-group">
+                    <label for="transaction-date">Transaction Date</label>
+                    <input type="date" id="transaction-date" name="transaction_date" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="type-of-transaction">Type of Transaction</label>
+                    <select id="type-of-transaction" name="type_of_transaction" required>
+                        <option value="">Select Type</option>
+                        {% for type in options.transaction_types %}
+                        <option value="{{ type }}">{{ type }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="transaction-amount">Transaction Amount</label>
+                    <input type="number" id="transaction-amount" name="transaction_amount" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="transaction-description">Transaction Description</label>
+                    <input type="text" id="transaction-description" name="transaction_description" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="transaction-towards">Transaction Towards</label>
+                    <select id="transaction-towards" name="transaction_towards" required>
+                        <option value="">Select Category</option>
+                        {% for category in options.transaction_towards %}
+                        <option value="{{ category }}">{{ category }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="mode-of-transaction">Mode of Transaction</label>
+                    <select id="mode-of-transaction" name="mode_of_transaction" required>
+                        <option value="">Select Mode</option>
+                        {% for mode in options.transaction_modes %}
+                        <option value="{{ mode }}">{{ mode }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="added-by">Added By</label>
+                    <select id="added-by" name="added_by" required>
+                        <option value="">Select Person</option>
+                        {% for person in options.added_by %}
+                        <option value="{{ person }}">{{ person }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="button-group">
+                    <button type="submit">Submit Transaction</button>
+                    <a href="{{ url_for('more_details') }}" class="more-details-button">View All Transactions</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="loading" class="loading-indicator">
+        <div class="spinner"></div>
+        <p>Processing...</p>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}?v=1.0.1"></script>
+</body>
+</html>

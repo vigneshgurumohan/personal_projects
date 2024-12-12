@@ -1,0 +1,8 @@
+Timestamp,Transaction Date,Type of Transaction,Transaction Amount,Transaction Description,Transaction Towards,Mode of Transaction,Added By,Month,Year
+5/16/2023 12:41:18,7,Income,2340,Perdiem for may month,Salary,Debit Card,Keerthana,May,2023
+06-04-2023 08:11,7,Income,300,Cash,Salary,Cash,Keerthana,May,2023
+5/16/2023 12:32:59,8,Expense,183,Sim and Myki card,Utility,Debit Card,Keerthana,May,2023
+5/16/2023 12:33:54,8,Expense,167.6,Coles grocery,Groceries,Debit Card,Keerthana,May,2023
+06-04-2023 07:44,8,Expense,90.5,Travel food at Melbourne airport,Offline Food,Debit Card,Keerthana,May,2023
+5/16/2023 12:37:28,10,Expense,68,Indian store,Groceries,Debit Card,Keerthana,May,2023
+06-04-2023 07:53,11,Expense,29.4,Indian store,Groceries,Debit Card,Keerthana,May,2023
